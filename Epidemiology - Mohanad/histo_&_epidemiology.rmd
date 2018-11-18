@@ -1,0 +1,55 @@
+# Epidemiology
+
+- It is estimated that there are between 900,000 and 1,200,000 new skin cancers each year in the United States.
+- 80% are BCCs & 20% are SCCs.
+- Commonly affects men > 60 years
+- Incidence: 1 per 1000 individuals (250,000 new case per year) in U.S.
+- between 1300 and 2300 people die each year as a result of nonmelanoma skin cancer, mostly metastatic SCC.
+- It has been estimated that a Caucasian male born in l994 has a 9% to 14% chance of  developing an SCC within his lifetime. The estimates for white women range from 4% to 9%.
+- Fair-skinned phenotype, excessive cumulative overexposure to UV radiation, advancing age, outdoor vocation, or avocation, and sunbelt latitudes.
+- The highest risk factors are the presence of Actinic Keratosis or a previous nonmelanoma skin cancer
+- Immunosuppressed patients and patients receiving long-term photochemotherapy (PUVA) are especially predisposed to the development of SCCs.
+- Countries or Cities near the equator are of higher frequency of developing SCCs.
+- High-risk SCCs for metastases and death are those that grow rapidly, become larger than 2 cm, invade deeply and reach a thickness of at least 6 mm, have been treated previously, or are located in high-risk areas such as the vermilion lip, the ear, and the columella of the nose. Patients who are immunocompromised are more predisposed to the development of metastases.
+
+---
+
+# Histopathology
+
+- Carcinoma that infiltrates dermis
+- An associated precursor lesion (actinic keratosis / keratinocytic dysplasia / in situ squamous cell carcinoma) is often present, but may not be detectable due to ulceration
+- Spectrum of histologic features, which has led to descriptions of various "types" of SCC; all share downward growth below level of adjacent or overlying epidermis
+- Typical SCC has nests of squamous epithelial cells arising from the epidermis and extending into the dermis. 
+- The malignant cells are often large with abundant eosinophilic cytoplasm and a large, often vesicular, nucleus. 
+- Variable keratinisation (keratin pearls)
+
+## Typically SCC is graded as:
+- Well differentiated (figures 3, 4)
+- Moderately differentiated (figures 5, 6)
+- Poorly differentiated (figures 7, 8)
+
+## Variants 
+- Spindle cell SCC
+- Clear cell SCC
+- Desmoplastic SCC
+- Verrucous carcinoma
+- Follicular SCC
+- Keratoacanthoma-like SCC
+- Acantholytic SCC
+- Pseudovascular SCC
+- Adenosquamous carcinoma
+- Metaplastic SCC
+- Inflammatory SCC
+- Basaloid SCC
+- Infiltrative SCC
+- Pigmented SCC
+- Pseudohyperplastic SCC
+
+## Positive stains
+Immunopositive for various keratins: 34betaE12, AE1/AE3, MNF116, CK5/6
+
+# References
+
+- doi:10.1067/mjd.2000.103342
+- http://www.pathologyoutlines.com/topic/skintumornonmelanocyticscc.html
+- https://www.dermnetnz.org/topics/squamous-cell-carcinoma-pathology/
