@@ -11,7 +11,7 @@ header-includes:
 \newpage
 
 \begin{center}
-{{First Image here}}
+{{Clinical Image Here}} <!-- TODO: Add this -->
 \end{center}
 
 ***
@@ -85,23 +85,22 @@ Many risk factors associated with squamous cell carcinoma have a direct link to 
     * People with an inherited condition known as xeroderma pigmentosum have an extreme sensitivity to
         sunlight are also very susceptible to cellular damage caused by UVA and UVB rays.
 
-6. Genetic Susceptibility and Infected individuals
+6. Genetically Susceptible and Infected individuals
 
     * People with psoriasis and other inflammatory skin diseases often receive ultraviolet light-based
         treatments, which can increase their risk of developing skin cancer in the future.
     * Rare genetic disorder. People with xeroderma pigmentosum, which causes an extreme sensitivity to sunlight,
         have a greatly increased risk of developing skin cancer.
     * Weakened immune system. People with weakened immune systems have an increased risk of skin cancer.
-        This includes people who have leukemia or lymphoma and those who take medications that suppress the immune system,
-        such as those who have undergone organ transplants.
+        This includes people who have leukemia or lymphoma and those who take medications that suppress the immune system, such as those who have undergone organ transplants.
 
 Additional risk factors include exposure to large amounts of arsenic, coal tar or other carcinogenic chemicals; chronic ulcers and a history of radiation therapy for previous cancers. Also, a person who has already been diagnosed with skin cancer has an elevated risk of developing a second skin cancer during his or her lifetime.
 
 # Epidemiology
 
 * It commonly affects men > 60 years
-* Incidence: 1 per 1000 individuals (250,000 new case per year) in U.S.
-* Between 1300 and 2300 people die each year as a result of nonmelanoma skin cancer, mostly metastatic SCC.
+* Incidence: More than one million cases each year in the U.S alone.
+* About 15,000 people die each year as a result of nonmelanoma skin cancer, mostly metastatic SCC.
 * It has been estimated that a Caucasian male born in l994 has a 9% to 14% chance of
     developing an SCC within his lifetime. The estimates for white women range from 4% to 9%.
 * Fair-skinned phenotype, excessive cumulative overexposure to UV radiation, advancing age,
@@ -131,6 +130,8 @@ including wrinkles, pigment changes, freckles, “age spots,” loss of elastici
 SCCs can often look like scaly patches, open sores, warts or elevated growths with a central depression;
 they may crust or bleed. They can become disfiguring and sometimes deadly if allowed to grow.
 
+<!-- TODO: add more pictures here -->
+
 ## Signs and Symptoms
 
 Skin cancers often do not cause bothersome symptoms until they have grown quite large. Then they may itch, bleed, or even hurt.
@@ -147,16 +148,64 @@ In addition, common signs of squamous cell carcinomas include:
 * Raised growths or lumps, sometimes with a lower area in the center.
 * Wart-like growths
 
+<!-- TODO: More to be added HERE -->
 
 # Diagnosis
 
+Squamous cell carcinoma can be diagnosed by the following procedures:
+
+1. Skin Examination
+    * Examination of abnormal spots or bumps in the skin
+2. Biobsy
+    * **Shave biopsy**: A sterile razor blade is used to ''shave off'' the abnormal-looking growth
+    * **Punch biopsy**: A special instrument called a punch or a trephine is used to remove a circle of tissue from the abnormal-looking growth
+    * **Excisional biopsy**: A scalpel is used to remove the entire growth
+
+Patient is also most probably going to have a history of:
+
+* Smoking habit
+* Exposure to UV either by sunlight or artificially
+* Precancerous lesion
+
+# Types of squamous cell carcinoma:
+
+* Verrucous squamous-cell carcinoma
+* Clear Cell SCC
+* Spindle cell squamous cell carcinoma
+* Adenoid/pseudoglandular squamous cell carcinoma
+* Intraepidermal squamous cell carcinoma
+* Large cell keratinizing squamous cell carcinoma
+* Large cell non-keratinizing squamous cell carcinoma
+* Lymphoepithelial carcinoma
+* Papillary squamous cell carcinoma
+* Papillary thyroid carcinoma
+* Small cell keratinizing squamous cell carcinoma
+* Spindle cell SCC
 
 # Histopathology
 
+* Squamous cell carcinoma is a malignant epithelial tumor which originates in epidermis. 
+* Tumor cells destroy the basement membrane and form sheets or compact masses which invade the subjacent connective tissue (dermis).
+* Tumor cells show signs of epithelial dysplasia.
+* Tumor cells may surround and destroy blood vessels, and may invade the lumina of vein or lymphatics.
+* In well differentiated carcinomas, tumor cells are pleomorphic/atypical, but resembling normal keratinocytes from prickle layer (large, polygonal, with abundant eosinophilic (pink) cytoplasm and central nucleus). Their disposal tends to be similar to that of normal epidermis: immature/basal cells at the periphery, becoming more mature to the centre of the tumor masses. Tumor cells transform into keratinized squames and form round nodules with concentric, laminated layers, called "cell nests" or "epithelial/keratinous pearls". The surrounding stroma is reduced and contains inflammatory infiltrate (lymphocytes). 
+* Poorly differentiated squamous carcinomas contain more pleomorphic cells and no keratinization. (H&E, ob. x10)
+
+## Staging and Grading
+
+# Complications
+
+Untreated squamous cell carcinoma of the skin can destroy nearby healthy tissue, spread to the lymph nodes or other organs, and may be fatal, although this is uncommon.
+The risk of aggressive squamous cell carcinoma of the skin may be increased in cases where the cancer:
+
+* Is particularly large or deep
+* Involves the mucous membranes, such as the lips
+* Occurs in a person with a weakened immune system, such as someone who takes anti-rejection medications after an organ transplant or someone who has chronic leukemia
 
 # Treatment of SCCs
 
 
 # References
 
-- doi: 10.1097/JDN.0b013e3181cb5165
+* DOI: 10.1097/JDN.0b013e3181cb5165
+* https://www.skincancer.org/skin-cancer-information/skin-cancer-facts
