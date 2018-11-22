@@ -6,12 +6,18 @@ output:
         toc_depth: 2
 header-includes:
     \usepackage{float}
+    \usepackage{wrapfig}
+    \usepackage{subcaption}
 ---
 
 \newpage
 
 \begin{center}
-{{Clinical Image Here}} <!-- TODO: Add this -->
+
+\includegraphics[width=4in]{imgs/scc-mouth}
+
+Squamous cell carcinomas
+
 \end{center}
 
 ***
@@ -96,6 +102,8 @@ Many risk factors associated with squamous cell carcinoma have a direct link to 
 
 Additional risk factors include exposure to large amounts of arsenic, coal tar or other carcinogenic chemicals; chronic ulcers and a history of radiation therapy for previous cancers. Also, a person who has already been diagnosed with skin cancer has an elevated risk of developing a second skin cancer during his or her lifetime.
 
+\newpage
+
 # Epidemiology
 
 * It commonly affects men > 60 years
@@ -130,8 +138,6 @@ including wrinkles, pigment changes, freckles, “age spots,” loss of elastici
 SCCs can often look like scaly patches, open sores, warts or elevated growths with a central depression;
 they may crust or bleed. They can become disfiguring and sometimes deadly if allowed to grow.
 
-<!-- TODO: add more pictures here -->
-
 ## Signs and Symptoms
 
 Skin cancers often do not cause bothersome symptoms until they have grown quite large. Then they may itch, bleed, or even hurt.
@@ -150,6 +156,78 @@ In addition, common signs of squamous cell carcinomas include:
 
 <!-- TODO: More to be added HERE -->
 
+## Differential diagnosis
+
+Squamous cell carcinoma usually has some similarities with:
+
+1. **Mature melanocytic nevus**:  
+    \begin{center}
+    \includegraphics[width=3in]{imgs/melanotic_nevus}
+    \end{center}
+    * Type of vessels: comma
+    * Distribution: regular
+    * Additional criteria: 
+        a. Comedo-like openings/milia-like cysts
+        b. Terminal hair
+        c. Residual brown pigmentation
+\vspace{16pt}
+2. **Spitz nevus**:  
+    \begin{center}
+    \includegraphics[width=3in]{imgs/spitz_nevus}
+    \end{center}
+    A Spitz nevus (also known as an epithelioid and spindle-cell nevus, benign juvenile melanoma, and "Spitz's juvenile melanoma") is a benign melanocytic nevus, a type of skin lesion, affecting the epidermis and dermis.
+    * Type of vessels: dotted
+    * Distribution: regular
+    * Additional criteria:
+        a. Pink background
+        b. Melanocytic criteria:
+        c. Inverted network
+        d. Chrysalis structures
+3. **Dysplastic nevus**:  
+    \begin{center}
+    \includegraphics[width=3in]{imgs/dysplastic_nevi}
+    \end{center}
+    These are unusual benign moles that may resemble melanoma. People who have are at increased risk of developing single or multiple melanomas. The higher the number of these moles someone has, the higher the risk. Those who have 10 or more have 12 times the risk of developing melanoma compared to the general population.
+    * Type of vessels: dotted and comma
+    * Distribution: regular/irregular
+    * Additional criteria:
+        + Melanocytic criteria
+\vspace{16pt}
+4. **Melanoma**:  
+    \begin{center}
+    \includegraphics[width=3in]{imgs/melanoma}
+    \end{center}
+    * Type of vessels: 
+        a. Thin tumors (<1 mm): dotted vessels
+        b. Intermediate tumors (1-2mm): dotted and linear irregular vessels
+        c. Thick tumors: polymorphous vessels
+    * Distribution: irregular
+    * Additional criteria:
+        a. Atypical melanocytic criteria
+        b. Chrysalis structures
+\newpage
+5. **Clear cell acanthoma**:  
+    \begin{center}
+    \includegraphics[width=3in]{imgs/clear_cell_acanthoma}
+    \end{center}
+    * Type of vessels: dotted
+    * Distribution: string of pearls
+    * Additional criteria: Erythematous background
+\vspace{16pt}
+6. **Basal cell carcinoma**:  
+    \begin{center}
+    \includegraphics[width=3in]{imgs/basal_cell_carcinoma}
+    \end{center}
+    Basal cell carcinoma is the most common form of skin cancer, affecting approximately one million Americans each year. More than one out of every three new cancers are skin cancers, and the vast majority are basal cell carcinomas. Basal cell carcinomas are easily treated in their early stages. The larger the tumor has grown, however, the more extensive the treatment needed.
+    * Type of vessels: telangiectasia
+    * Distribution: branching
+    * Additional criteria
+        a. Blue-grey nests and ovoid globules
+        b. Maple leaf-like areas
+        c. Wheel spoke areas
+        d. Ulceration
+
+\newpage
 # Diagnosis
 
 Squamous cell carcinoma can be diagnosed by the following procedures:
@@ -188,10 +266,159 @@ Patient is also most probably going to have a history of:
 * Tumor cells destroy the basement membrane and form sheets or compact masses which invade the subjacent connective tissue (dermis).
 * Tumor cells show signs of epithelial dysplasia.
 * Tumor cells may surround and destroy blood vessels, and may invade the lumina of vein or lymphatics.
-* In well differentiated carcinomas, tumor cells are pleomorphic/atypical, but resembling normal keratinocytes from prickle layer (large, polygonal, with abundant eosinophilic (pink) cytoplasm and central nucleus). Their disposal tends to be similar to that of normal epidermis: immature/basal cells at the periphery, becoming more mature to the centre of the tumor masses. Tumor cells transform into keratinized squames and form round nodules with concentric, laminated layers, called "cell nests" or "epithelial/keratinous pearls". The surrounding stroma is reduced and contains inflammatory infiltrate (lymphocytes). 
+* In well differentiated carcinomas, tumor cells are pleomorphic/atypical, but resembling normal keratinocytes from prickle layer (large, polygonal, with abundant eosinophilic (pink) cytoplasm and central nucleus). Their disposal tends to be similar to that of normal epidermis: immature/basal cells at the periphery, becoming more mature to the centre of the tumor masses. Tumor cells transform into keratinized squamous and form round nodules with concentric, laminated layers, called "cell nests" or "epithelial/keratinous pearls". The surrounding stroma is reduced and contains inflammatory infiltrate (lymphocytes). 
 * Poorly differentiated squamous carcinomas contain more pleomorphic cells and no keratinization. (H&E, ob. x10)
 
-## Staging and Grading
+\begin{figure}[H]
+\centering
+\begin{subfigure}{.4\textwidth}
+  \centering
+  \includegraphics{imgs/SSC_Histopathology_html_9fd84b79de9c25f7.jpg}
+  \caption{Well-differentiated lesions show prominent keratinization and may form “pearl-like” structures where dermal nests of keratinocytes attempt to mature in a layered fashion (40x).}
+\end{subfigure}\hspace{5mm}
+\begin{subfigure}{.4\textwidth}
+  \centering
+  \includegraphics{imgs/SSC_Histopathology_html_ae230e8bb04eec96.jpg}
+  \caption{Moderately differentiated lesions of SCC show much less organization and maturation with significantly less keratin formation (40x).}
+\end{subfigure}
+\end{figure}
+
+## Variants
+
+Conventional SCC and variants of OSCC frequently arise within the oral cavity. Precise histopathological diagnosis can help the clinician to plan accurate treatment, as the prognosis of each of them differs considerably.
+
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
+\centering
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_69e9c4b039b80017.jpg}
+  \caption{1. \textbf{Conventional Squamous Cell Carcinoma}: Conventional oral squamous cell carcinoma-malignant epithelial islands showing keratin pearl formation.}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_78723c05b88184.jpg}
+  \caption{2. \textbf{Verrucous Carcinoma}: Verrucous carcinoma-broad bulbous pushing rete ridges with parakeratotic plugging.}
+\end{subfigure} \par\bigskip
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_5388d96721d8398c.jpg}
+  \caption{3. \textbf{Adenoid squamous cell carcinoma}: Adenoid squamous cell carcinoma -pseudoglandular pattern with acantholytic tumor cells.}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_a4551437385fd29a.jpg}
+  \caption{4. \textbf{Spindle cell carcinoma}: Spindle cell carcinoma-malignant epithelial cells showing spindling/sarcomatoid appearance.}
+\end{subfigure}
+\end{figure}
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_69e9c4b039b80017.jpg}
+  \caption{5. \textbf{Adenosquamous carcinoma}: Adenosquamous carcinoma-biphasic tumor showing true glandular differentiation (arrowhead) along with squamous differentiation (arrow) (H\&E stain, ×100). Inset depicts alcian bluepositive mucin secretion (×400)}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_464039fda29ea00e.jpg}
+  \caption{6. \textbf{Basaloid squamous cell carcinoma}: Basaloid squamous cell carcinoma biphasic tumor showing basaloid malignant islands with peripheral palisading and comedonecrosis (arrow) (H\&E stain, ×100). Inset depicts squamous differentiation with keratin pearl formation (arrowhead) (H\&E stain, ×100)}
+\end{subfigure}
+\end{figure}
+
+
+## Tumor Grading
+
+Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
+
+1. Broder's System (1927)
+2. Anneroth et al (1987)
+3. Bryne’s invasive front grading (1989, 1992)
+4. Jakobbson et al (1973)
+5. Fisher (1975)
+6. Lund et al (1975)
+7. Willen et al (1975)
+8. Crissman et al (1980)
+
+### Broder's System (1927)
+
+Accordingly, tumors were graded on the basis of degree of differentiation and keratinization of tumor cells into:
+
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
+\centering
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/SSC_Histopathology_html_65f3699b05775990.jpg}
+  \caption{(a) \textbf{Grade I}: Well differentiated tumors – 75-100\% of cells are differentiated}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/SSC_Histopathology_html_8a743d0d1fb59824.jpg}
+  \caption{(b) \textbf{Grade II}: Moderately differentiated tumors – 50-75\% of cells are differentiated}
+\end{subfigure}
+\end{figure}
+
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/SSC_Histopathology_html_2f9a0d183f1cf28c.png}
+  \caption{(c) \textbf{Grade III}: Poorly differentiated tumors – 25-50\% of cells are differentiated}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/SSC_Histopathology_html_3b01cf016452b491.jpg}
+  \caption{(d) \textbf{Grade IV}: Anaplastic tumor – 0-25\% of cells are differentiated}
+\end{subfigure}
+\end{figure}
+
+## Staging
+
+Clinical staging of squamous cell carcinoma is done by the TNM system. The extent of the Tumor (**T**), lymph nodes involvement (**N**), metastasis (**M**).
+
+* The size and extent of the primary lesion.
+* The degree of infiltration of the primary lesion.
+* Presence or absence of metastases to regional lymph nodes.
+* Whether ipsilateral nodes only or contralateral nodes are also involved.
+* Whether or not the involved nodes are fixed.
+* Presence or absence of distant metastases.  
+  
+### T:
+
+* **T0**: No evidence of primary tumor.
+* **Tis**: Carcinoma in situ
+* **T1**: < 2cm in its greatest diameter.
+* **T2**: > 2cm < 4cm.
+* **T3**: > 4cm
+* **T4**: > 4cm & extended to adjacent structures (bone, sinuses & skin)
+* **T4a**: Can be surgically resected
+* **T4b**: Can’t be surgically resected
+
+### N:
+
+* **N0**: No L.N involved.
+* **N1**: Palpable but not fixed (ipsilateral).
+* **N2**: Palpable but not fixed (contralateral).
+* **N3**: Fixed L.N (ipsilateral, contralateral or bilateral)
+
+### M:
+
+* **M0**: No metastasis.
+* **M1**: Metastasis present.
+
+## Tumor Markers
+
+Serum levels of six tumor markers:
+
+* Carcinoembryonic antigen (CEA) 
+* Squamous cell carcinoma antigen (SCCA)
+* Immunosuppressive acidic protein (IAP)
+* Alpha-fetoprotein (AFP)
+* Ferritin (FER),
+* Carbohydrate antigen 19-9 (CA 19-9)
+
+were simultaneously measured in 29 patients with primary squamous cell carcinoma (SCC) of the oral cavity to determine their significance. The positive rates were 34.5% for CEA, 41.4% for SCCA, 51.7% for IAP, 0% for AFP, 10.3% for FER, and 6.9% for CA 19-9 in patients with oral SCC. Therefore, CEA, SCCA, and IAP levels, of which the positive rates were significantly different (P < 0.01) from those of control patients without oral cancer, were considered to be of diagnostic value. The sensitivity (69.0%) and accuracy (90.3%) of the combination assay with these three tumor markers proved to be higher than those obtained with individual markers. A combination assay with CEA, SCCA, and IAP could be useful for the screening of patients with oral cancer.
+
 
 # Complications
 
@@ -204,6 +431,79 @@ The risk of aggressive squamous cell carcinoma of the skin may be increased in c
 
 # Treatment of SCCs
 
+There are several types of treatment available for squamous cell carcinoma.
+
+## Treatment Options
+
+### A) Surgery
+
+Surgery may be used to treat squamous cell carcinoma or actinic keratosis. Types of surgery include:
+
+1. Mohs Microscopic Surgery
+    The doctor removes the cancer from the skin in thin layers and each layer is analyzed under a microscope during surgery for cancer cells. The doctor continues to remove one layer at a time until removing a layer with no evidence of cancer cells. This allows the surgeon to be certain the entire growth is removed and avoid taking an excessive amount of surrounding healthy skin.
+2. Simple Excision
+    The doctor removes the skin cancer and some of the healthy tissue around it.  In this procedure, your doctor cuts out the cancerous tissue and a surrounding margin of healthy skin. Your doctor may recommend removing additional normal skin around the tumor in some cases (wide excision). To minimize scarring, especially on your face, consult a doctor skilled in skin reconstruction.
+
+\begin{figure}
+\centering
+\includegraphics{imgs/mohs_surgery}
+\end{figure}
+
+### B) Radiation Therapy
+
+Radiation therapy uses X-rays or other types of radiation to destroy cancer cells. Most radiation is delivered from a machine outside your body that is targeted directly at the cancer cells. This may be an option for treating deeper tumors, those that have a risk of returning after surgery and tumors in people who can't undergo surgery. 
+
+### C) Chemotherapy
+
+* Chemotherapy uses drugs to stop the growth of cancer cells, either by destroying the cells or by stopping the cells from dividing. Chemotherapy for squamous cell carcinoma and actinic keratosis usually is applied to the skin as a cream or lotion, which is called topical chemotherapy. Medicated creams or lotions. For very superficial cancers, you may apply creams or lotions containing anti-cancer medications directly to your skin.
+
+Chemotherapy may be used for squamous cell carcinoma that is metastatic (has spread to other organs) or when the skin cancer cannot be treated with local therapy but only in specific circumstances.
+
+### D) Photodynamic Therapy
+
+Photodynamic therapy uses a drug and a laser light to destroy cancer cells. The drug is injected in a vein and only becomes active when the laser light shines on the skin. 
+
+### E) Immunotherapy
+
+Immunotherapy, also called biologic therapy, helps boost a patient’s immune system to fight cancer. Interferon may be injected to help treat squamous cell carcinoma by slowing the growth of cancer cells.
+
+Immunotherapy may be used for squamous cell carcinoma that is metastatic (has spread to other organs) or when the skin cancer cannot be treated with local therapy.
+
+### F) Electrodesiccation and curettage
+
+ED and C treatment involves removing the surface of the skin cancer with a scraping instrument (curet) and then searing the base of the cancer with an electric needle. This treatment is often used for very small squamous cell cancers of the skin.
+
+\begin{figure}[H]
+\centering
+\includegraphics[width=4in]{imgs/Multiple}
+\end{figure}
+
+### G) Curettage and cryotherapy
+
+Similar to the ED and C procedure, after the tumor removal and curettage, the base and edges of the biopsy site are treated with liquid nitrogen.
+
+### H) Laser therapy
+
+An intense beam of light vaporizes growths, usually with little damage to surrounding tissue and with a reduced risk of bleeding, swelling and scarring. Laser treatment may be an option for very superficial skin lesions.
+
+\newpage
+
+### I) Freezing
+
+\begin{figure}[H]
+\centering
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics{imgs/cryo_therapy}
+\end{subfigure}
+\begin{subfigure}{0.45\textwidth}
+\centering
+\includegraphics{imgs/cryo_therapy_2}
+\end{subfigure}
+\caption{Cryosurgery}
+\end{figure}
+
+This treatment involves freezing cancer cells with liquid nitrogen (cryosurgery). It may be an option for treating superficial skin lesions.
 
 # References
 
