@@ -528,8 +528,6 @@ Similar to the ED and C procedure, after the tumor removal and curettage, the ba
 
 An intense beam of light vaporizes growths, usually with little damage to surrounding tissue and with a reduced risk of bleeding, swelling and scarring. Laser treatment may be an option for very superficial skin lesions.
 
-\newpage
-
 ### I) Freezing
 
 \begin{figure}[H]
