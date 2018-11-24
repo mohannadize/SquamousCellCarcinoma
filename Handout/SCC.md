@@ -152,12 +152,36 @@ is key to finding and treating these cancers early.
 General warning signs of skin cancer include a new spot or growth that increases in size, or a sore that doesn’t heal within two months.
 In addition, common signs of squamous cell carcinomas include:
 
+* Persistent, thick, scaly patches that may bleed.
 * It can be a white-ish or reddish lesion.
 * A growing lump with a rough scaly or crusty surface, Slow-growing flat reddish patch.
 * Raised growths or lumps, sometimes with a lower area in the center.
-* Wart-like growths
+* Wart-like growths and sometimes have open sores with a raised border.
+* The skin around them typically shows signs of sun damage such as wrinkling, pigment changes and loss of elasticity.
 
-<!-- TODO: More to be added HERE -->
+\begin{figure}
+\centering
+\begin{subfigure}{0.3\textwidth}
+\centering
+\includegraphics[width=0.7\textwidth]{imgs/persistent_scc}
+\caption{Persistent, scaly red patch with irregular borders that sometimes crusts or bleeds.}
+\end{subfigure} \hfill
+\begin{subfigure}{0.3\textwidth}
+\centering
+\includegraphics[width=0.7\textwidth]{imgs/elevated_growth_scc}
+\caption{An elevated growth with a central depression that occasionally bleeds. It may rapidly increase in size.}
+\end{subfigure} \hfill
+\begin{subfigure}{0.3\textwidth}
+\centering
+\includegraphics[width=0.7\textwidth]{imgs/open_sore}
+\caption{An open sore that bleeds or crusts and persists for weeks.}
+\end{subfigure} \per\bigskip
+\begin{subfigure}{0.3\textwidth}
+\centering
+\includegraphics[width=0.7\textwidth]{imgs/wart-like_scc}
+\caption{A wart-like growth that crusts and occasionally bleeds.}
+\end{subfigure}
+\end{figure}
 
 ## Differential diagnosis
 
