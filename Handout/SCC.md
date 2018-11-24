@@ -159,29 +159,31 @@ In addition, common signs of squamous cell carcinomas include:
 * Wart-like growths and sometimes have open sores with a raised border.
 * The skin around them typically shows signs of sun damage such as wrinkling, pigment changes and loss of elasticity.
 
-\begin{figure}
+\begin{figure}[H]
 \centering
-\begin{subfigure}{0.3\textwidth}
+\begin{subfigure}{0.45\textwidth}
 \centering
-\includegraphics[width=0.7\textwidth]{imgs/persistent_scc}
+\includegraphics[width=1\textwidth]{imgs/persistent_scc}
 \caption{Persistent, scaly red patch with irregular borders that sometimes crusts or bleeds.}
 \end{subfigure} \hfill
-\begin{subfigure}{0.3\textwidth}
+\begin{subfigure}{0.45\textwidth}
 \centering
-\includegraphics[width=0.7\textwidth]{imgs/elevated_growth_scc}
+\includegraphics[width=1\textwidth]{imgs/elevated_growth_scc}
 \caption{An elevated growth with a central depression that occasionally bleeds. It may rapidly increase in size.}
-\end{subfigure} \hfill
-\begin{subfigure}{0.3\textwidth}
+\end{subfigure} \par\bigskip
+\begin{subfigure}{0.45\textwidth}
 \centering
-\includegraphics[width=0.7\textwidth]{imgs/open_sore}
+\includegraphics[width=1\textwidth]{imgs/open_sore}
 \caption{An open sore that bleeds or crusts and persists for weeks.}
-\end{subfigure} \per\bigskip
-\begin{subfigure}{0.3\textwidth}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
 \centering
-\includegraphics[width=0.7\textwidth]{imgs/wart-like_scc}
+\includegraphics[width=1\textwidth]{imgs/wart-like_scc}
 \caption{A wart-like growth that crusts and occasionally bleeds.}
 \end{subfigure}
 \end{figure}
+
+\newpage
 
 ## Differential diagnosis
 
@@ -210,6 +212,7 @@ Squamous cell carcinoma usually has some similarities with:
         b. Melanocytic criteria:
         c. Inverted network
         d. Chrysalis structures
+\newpage
 3. **Dysplastic nevus**:  
     \begin{center}
     \includegraphics[width=3in]{imgs/dysplastic_nevi}
@@ -312,7 +315,7 @@ Patient is also most probably going to have a history of:
 
 ## Variants
 
-Conventional SCC and variants of OSCC frequently arise within the oral cavity. Precise histopathological diagnosis can help the clinician to plan accurate treatment, as the prognosis of each of them differs considerably.
+Conventional SCC and variants of SCC frequently arise within the oral cavity. Precise histopathological diagnosis can help the clinician to plan accurate treatment, as the prognosis of each of them differs considerably.
 
 \begin{figure}[H]
 \captionsetup[subfigure]{labelformat=empty}
@@ -343,12 +346,22 @@ Conventional SCC and variants of OSCC frequently arise within the oral cavity. P
 \begin{subfigure}{0.45\textwidth}
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_69e9c4b039b80017.jpg}
-  \caption{5. \textbf{Adenosquamous carcinoma}: Adenosquamous carcinoma-biphasic tumor showing true glandular differentiation (arrowhead) along with squamous differentiation (arrow) (H\&E stain, ×100). Inset depicts alcian bluepositive mucin secretion (×400)}
+  \caption{5. \textbf{Adenosquamous carcinoma}: Adenosquamous carcinoma-biphasic tumor showing true glandular differentiation (arrowhead) along with squamous differentiation (arrow) (H\&E stain, ×100). Inset depicts alcian bluepositive mucin secretion (×400). Characterized histopathologically by a combination of adenocarcinoma and squamous cell carcinoma. The adenoid (glandular) pattern includes mucous production has been demonstrated.}
 \end{subfigure} \hfill
 \begin{subfigure}{0.45\textwidth}
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_464039fda29ea00e.jpg}
   \caption{6. \textbf{Basaloid squamous cell carcinoma}: Basaloid squamous cell carcinoma biphasic tumor showing basaloid malignant islands with peripheral palisading and comedonecrosis (arrow) (H\&E stain, ×100). Inset depicts squamous differentiation with keratin pearl formation (arrowhead) (H\&E stain, ×100)}
+\end{subfigure} \par\bigskip
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/scc_clear_cell_histo}
+  \caption{7. \textbf{Clear variant of squamous cell carcinoma}: is a rare variant of SCC of skin in which ultraviolet radiation has been suggested as possible etiology. Features of malignant epithelial neoplasm composed of islands of large oval to polyhedral malignant squamous cells with eosinophilic to amphophilic cytoplasm and vesicular nuclei and there were areas showing clear cell differentiation and isolated areas of keratin pearl formation. The hydropic degeneration of neoplastic cells and the accumulation of intracellular fluid and not the accumulation of glycogen, lipid, or mucin, results in its clear cell appearance.}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.8\textwidth]{imgs/transient_scc_histo}
+  \caption{8. \textbf{Transitional Cell Carcinoma (Lymphoepithelioma)}: H and E stain, x40. Section shows thetissue lined by a respiratory type of epithelium (marked with arrow) and papillary projections formed by nonkeratinizing squamous cells (marked with arrow).}
 \end{subfigure}
 \end{figure}
 
@@ -398,6 +411,8 @@ Accordingly, tumors were graded on the basis of degree of differentiation and ke
   \caption{(d) \textbf{Grade IV}: Anaplastic tumor – 0-25\% of cells are differentiated}
 \end{subfigure}
 \end{figure}
+
+\newpage
 
 ## Staging
 
@@ -534,5 +549,17 @@ This treatment involves freezing cancer cells with liquid nitrogen (cryosurgery)
 
 # References
 
-* DOI: 10.1097/JDN.0b013e3181cb5165
-* https://www.skincancer.org/skin-cancer-information/skin-cancer-facts
+* Shulstad, R. M., & Proper, S. (2010). Squamous Cell Carcinoma. Journal of the Dermatology Nurses’ Association, 2(1), 12–16. doi:10.1097/jdn.0b013e3181cb5165
+* Vijay R Tumuluri. A retrospective Analysis of Cell Proliferation in Human Oral Squamous Cell Carcinoma A thesis submitted to Queen Elizebeth Research Institute for Mothers and Infants, The University of Sydney; Nov 1998
+* Dilana Duarte Lima Dantas et al. Clinical-pathological parameters in squamous cell carcinoma of the tongue.Braz Dent J 2003;14:1:22-25.
+* Kenneth D McClatchey, Richard J. Zarbo. The Jaws and Oral Cavity. Sternberg’s Diagnostic Surgical Pathology 2004;2:884-915.
+* M.F. Muñoz-Guerra. Early stage oral cancer: prognosis with regard to histological grading, intratumoral lymphangiogenesis, and the expression of vascular endothelial growth factor-C (VEGF-C). Rev Esp Cirug Oral y Maxilofac 2006;28:1:25-40.
+* Y. Okada, I. Mataga. An analysis of cervical lymph nodes metastasis in oral squamous cell carcinoma: Relationship between grade of histopathological malignancy and lymph nodes metastasis. International journal of oral and maxillofacial surgery, 2003;32:3:284-288.
+* Shafer WG, Hine MK, Levy BM. Rajendran R,Sivapathasundharam B, editors. Text book of oral pathology. 5 th ed. New Delhi: Elsevier; 2006.
+* Skin Cancer Facts & Statistics - SkinCancer.org https://www.skincancer.org/skin-cancer-information/skin-cancer-facts
+* Warnakulasuriya S, Johnson NW, van der Waal I.Nomenclature and classification of potentially malignant disorders of the oral mucosa. J Oral Pathol Med. 2007; 10: 575-80
+* Stijn Fleskens and Piet Slootweg Grading systems inhead and neck dysplasia: their prognostic value, weaknesses and utility; Head & NeckOncology 2009, 1:11
+* Robin P, Powell DJ, Stansbie JM. Carcinoma of the nasal cavity and paranasal sinuses: Incidence and presentation of different histologic types. Clin Otolaryngol Allied Sci 1979;4:431-56.  Back to cited text no. 1
+* Prakash SB, Nishan. A rare malignancy of sinonasal tract- transitional cell carcinoma: A case report. J Evol Med Dent Sci 2013;2:6946-50.  Back to cited text no. 4
+* Jackson RT, Fitz-Hugh GS, Constable WC. Malignant neoplasms of the nasal cavities and paranasal sinuses: A retrospective study. Laryngoscope 1977;87:726-36.  Back to cited text no. 10
+* Pilch BZ, Bouquot J, Thompson LD. Squamous cell carcinoma. In: Barnes L, Eveson JW, Reichart P, Sidransky D, editors. World Health Organization classification of tumors. Pathology and genetics of head and neck tumors. Lyon: IARC Press; 2005. p. 15-7.
