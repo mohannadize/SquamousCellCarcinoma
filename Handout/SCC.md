@@ -16,7 +16,8 @@ header-includes:
 
 \includegraphics[width=4in]{imgs/scc-mouth}
 
-Squamous cell carcinomas
+Squamous cell carcinoma at the junction between the corner of the mouth  
+and cheeks
 
 \end{center}
 
@@ -32,6 +33,8 @@ It arises from plate-like cell layer in the epidermis and is due to extensive su
 Squamous cell carcinoma can metastasize if is not treated.
 
 # Etiology
+
+Neoplastic is generated from the squamous cell layer of the epithelium upon stimulation by irritants. Those irritants (or known as risk factors) are stochastic in nature and it is hard to specify a specific dose or quantity at which the neoplastic tissue starts to generate. DNA damage by irritants is the most probable cause of neoplasmic tissue generation.
 
 Squamous cell carcinoma is typically found on areas often exposed to the sun, such as the scalp, face and neck,
 however, it can develop on other parts of the body including the mucous membrane and the genitalia.
@@ -132,7 +135,7 @@ including wrinkles, pigment changes, freckles, “age spots,” loss of elastici
 \begin{figure}[H]
 \centering
 \includegraphics{imgs/clinical_buccal_mucosa.jpg}
-\caption{Moderately Differentiated SCC}
+\caption{SCC a of the buccal mucosa.}
 \end{figure}
 
 SCCs can often look like scaly patches, open sores, warts or elevated growths with a central depression;
