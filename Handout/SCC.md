@@ -258,6 +258,41 @@ Squamous cell carcinoma usually has some similarities with:
         d. Ulceration
 
 \newpage
+
+## Staging
+
+Clinical staging of squamous cell carcinoma is done by the TNM system. The extent of the Tumor (**T**), lymph nodes involvement (**N**), metastasis (**M**).
+
+* The size and extent of the primary lesion.
+* The degree of infiltration of the primary lesion.
+* Presence or absence of metastases to regional lymph nodes.
+* Whether ipsilateral nodes only or contralateral nodes are also involved.
+* Whether or not the involved nodes are fixed.
+* Presence or absence of distant metastases.  
+  
+### T:
+
+* **T0**: No evidence of primary tumor.
+* **Tis**: Carcinoma in situ
+* **T1**: < 2cm in its greatest diameter.
+* **T2**: > 2cm < 4cm.
+* **T3**: > 4cm
+* **T4**: > 4cm & extended to adjacent structures (bone, sinuses & skin)
+* **T4a**: Can be surgically resected
+* **T4b**: Can’t be surgically resected
+
+### N:
+
+* **N0**: No L.N involved.
+* **N1**: Palpable but not fixed (ipsilateral).
+* **N2**: Palpable but not fixed (contralateral).
+* **N3**: Fixed L.N (ipsilateral, contralateral or bilateral)
+
+### M:
+
+* **M0**: No metastasis.
+* **M1**: Metastasis present.
+
 # Diagnosis
 
 Squamous cell carcinoma can be diagnosed by the following procedures:
@@ -313,6 +348,8 @@ Patient is also most probably going to have a history of:
 \end{subfigure}
 \end{figure}
 
+\newpage
+
 ## Variants
 
 Conventional SCC and variants of SCC frequently arise within the oral cavity. Precise histopathological diagnosis can help the clinician to plan accurate treatment, as the prognosis of each of them differs considerably.
@@ -339,10 +376,7 @@ Conventional SCC and variants of SCC frequently arise within the oral cavity. Pr
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_a4551437385fd29a.jpg}
   \caption{4. \textbf{Spindle cell carcinoma}: Spindle cell carcinoma-malignant epithelial cells showing spindling/sarcomatoid appearance.}
-\end{subfigure}
-\end{figure}
-\begin{figure}[H]
-\captionsetup[subfigure]{labelformat=empty}
+\end{subfigure} \par\bigskip
 \begin{subfigure}{0.45\textwidth}
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_69e9c4b039b80017.jpg}
@@ -352,7 +386,10 @@ Conventional SCC and variants of SCC frequently arise within the oral cavity. Pr
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_464039fda29ea00e.jpg}
   \caption{6. \textbf{Basaloid squamous cell carcinoma}: Basaloid squamous cell carcinoma biphasic tumor showing basaloid malignant islands with peripheral palisading and comedonecrosis (arrow) (H\&E stain, ×100). Inset depicts squamous differentiation with keratin pearl formation (arrowhead) (H\&E stain, ×100)}
-\end{subfigure} \par\bigskip
+\end{subfigure}
+\end{figure}
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
 \begin{subfigure}{0.45\textwidth}
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/scc_clear_cell_histo}
@@ -378,6 +415,8 @@ Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 6. Lund et al (1975)
 7. Willen et al (1975)
 8. Crissman et al (1980)
+
+\newpage
 
 ### 1. Broder's System (1927)
 
@@ -483,6 +522,8 @@ According to this system,
 1. Number of mitosis and stage of invasion was omitted from the Anneroth’s grading system,
 2. The rest of the 4 parameters (Keratinization , nuclear pleomorphism , pattern of Invasion and lymphocytic Infiltration) are measured in the deepest invasive margins, and not in the whole thickness of the tumor, and graded similarly.
 
+\newpage
+
 The sum of scores are grouped as follows:
 
 * 4-8 grade I
@@ -506,39 +547,78 @@ This system includes
   \includegraphics[width=6in]{imgs/jacob_table.png}
 \end{center}
 
-## Staging
+\newpage
 
-Clinical staging of squamous cell carcinoma is done by the TNM system. The extent of the Tumor (**T**), lymph nodes involvement (**N**), metastasis (**M**).
+### 5. FISHER (1975)
 
-* The size and extent of the primary lesion.
-* The degree of infiltration of the primary lesion.
-* Presence or absence of metastases to regional lymph nodes.
-* Whether ipsilateral nodes only or contralateral nodes are also involved.
-* Whether or not the involved nodes are fixed.
-* Presence or absence of distant metastases.  
-  
-### T:
+They modified slightly the grading system developed by Jakobsson et al.
 
-* **T0**: No evidence of primary tumor.
-* **Tis**: Carcinoma in situ
-* **T1**: < 2cm in its greatest diameter.
-* **T2**: > 2cm < 4cm.
-* **T3**: > 4cm
-* **T4**: > 4cm & extended to adjacent structures (bone, sinuses & skin)
-* **T4a**: Can be surgically resected
-* **T4b**: Can’t be surgically resected
+* indicated the malignancy grade of biopsy tissue tended to be lower than the grade of definitive section obtained from surgical specimen.
 
-### N:
+\begin{center}
+  \includegraphics[width=6in]{imgs/fisher_table.png}
+\end{center}
 
-* **N0**: No L.N involved.
-* **N1**: Palpable but not fixed (ipsilateral).
-* **N2**: Palpable but not fixed (contralateral).
-* **N3**: Fixed L.N (ipsilateral, contralateral or bilateral)
+### 6. LUND et al (1975)
 
-### M:
+They also modified, grading system of Jakobsson et al.
 
-* **M0**: No metastasis.
-* **M1**: Metastasis present.
+by: 
+
+1. Presenting a more exact definition of each parameter and grade.
+2. Introducing a histologic score, defined a total sum of points divided by the number of parameters evaluated.
+
+* statistically significant correlation between microscopic score and
+    1. Death rate
+    2. Frequency of local recurrence
+    3. Regional lymph node metastases
+
+\begin{center}
+  \includegraphics[width=6in]{imgs/lund_table.png}
+\end{center}
+
+\newpage
+
+### 7. WILLEN et al (1975)
+
+They also used modified system of Jakobsson et al.
+
+1. Deletion of two morphological parameter  
+    structure and vascular invasion.
+
+* The results showed no definitive correlation between the clinical stage and histologic grading of malignancy.
+* In the group with no metastases the neoplasm were highly differentiated and mitotic rates were low, but nuclear polymorphism was sometime prominent.
+* In the group with metastases the neoplasm were less differentiated and advanced nuclear aberrations with increase mitotic rates.
+
+\begin{center}
+  \includegraphics[width=6in]{imgs/willen_table.png}
+\end{center}
+
+### 8. CRISSMAN et al
+
+They modified the criteria outlined by Jakobsson et al. in two steps.
+
+1. They included a different point scale for vascular invasion and structure and mode of invasion into a single parameter **pattern of invasion**.
+2. The new parameter was considered to reflect the capacity of the **tumor cells cohesiveness**.
+
+* “Differentiated” cohesive neoplasm infiltrated with well delineated pushing margins
+* “Less differentiated” non-cohesive neoplasm infiltrated as small, irregular neoplastic cell aggregates or single cells.
+
+\begin{center}
+  \includegraphics[width=5in]{imgs/crissman_table.png}
+\end{center}
+
+
+### CONCLUSION
+
+* A significant percentage of patients with early stages of SCC have a poor prognosis despite the small size of the tumor.
+* TNM staging system used in clinical practice does not provide information on the biological characteristic and aggressive clinical behavior of oral SCC.
+* The first and most widely practiced grading system for oral SCC was developed by AC Broder.
+* However, the grading systems developed by Bryne et al (1992), which analyses four factors of the carcinoma in its invasive front is most reproducible but less popularly used.
+* We found a significant positive trend between Bryne’s deep invasive cell grading system with lymph node metastasis; while all the other grading systems, especially the most
+* popularly used Broder’s classification failed to show any statistical significance to lymph node metastasis.
+* In conclusion, we believe that Bryne’s grading of the invasive parts of oral SCC could be taken as a valuable predictive factor in lymph node metastasis.
+* Immunohistochemical markers like expression of vascular endothelial growth factor-C (VEGF-C) and Ki-67 that take into account the biological behavior of the tumor.
 
 ## Tumor Markers
 
@@ -578,9 +658,9 @@ Surgery may be used to treat squamous cell carcinoma or actinic keratosis. Types
 2. Simple Excision
     The doctor removes the skin cancer and some of the healthy tissue around it.  In this procedure, your doctor cuts out the cancerous tissue and a surrounding margin of healthy skin. Your doctor may recommend removing additional normal skin around the tumor in some cases (wide excision). To minimize scarring, especially on your face, consult a doctor skilled in skin reconstruction.
 
-\begin{figure}
+\begin{figure}[H]
 \centering
-\includegraphics{imgs/mohs_surgery}
+\includegraphics[width=5in]{imgs/mohs_surgery}
 \end{figure}
 
 ### B) Radiation Therapy
@@ -609,7 +689,7 @@ ED and C treatment involves removing the surface of the skin cancer with a scrap
 
 \begin{figure}[H]
 \centering
-\includegraphics[width=4in]{imgs/Multiple}
+\includegraphics[width=2.5in]{imgs/Multiple}
 \end{figure}
 
 ### G) Curettage and cryotherapy
@@ -636,6 +716,8 @@ An intense beam of light vaporizes growths, usually with little damage to surrou
 \end{figure}
 
 This treatment involves freezing cancer cells with liquid nitrogen (cryosurgery). It may be an option for treating superficial skin lesions.
+
+\newpage
 
 # References
 
