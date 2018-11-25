@@ -379,7 +379,7 @@ Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 7. Willen et al (1975)
 8. Crissman et al (1980)
 
-### Broder's System (1927)
+### 1. Broder's System (1927)
 
 Accordingly, tumors were graded on the basis of degree of differentiation and keratinization of tumor cells into:
 
@@ -413,6 +413,98 @@ Accordingly, tumors were graded on the basis of degree of differentiation and ke
 \end{figure}
 
 \newpage
+
+### 2. Anneroth’s et al (1987) - Multifactorial grading system:
+
+According to this system, three parameters reflecting tumor cell features including
+
+1. Keratinization
+2. Nuclear pleomorphism
+3. Mitoses
+
+They're evaluated in the whole thickness of the tumor and each scored from 1-4.
+
+Also
+
+1. Pattern of invasion
+2. Stage of invasion
+3. Lymphoplasmacytic infiltration representing tumor-host relationship are graded in the most invasive margins and scored from 1-4.
+
+Then the sum of scores were grouped as follows: 6-12 grade I, 13-18 grade II, 19-24 grade III,
+and the results were compared in the metastasizing and non-metastasizing groups.
+
+
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/anneroth_high_keratin}
+  \caption{Degree of keratinization, Score 1 (Highly Keratinized)}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/Nuclear_pleomorphism}
+  \caption{Nucleur Pleomorphism, Score 4 (Extreme)}
+\end{subfigure} \par\bigskip
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/anneroth_pushing_borders.png}
+  \caption{Pattern of invasion, Score 1 (pushing borders)}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/anneroth_cellular_dissemination.png}
+  \caption{Pattern of invasion, Score 4 (Marked and widespread cellular dissemination).}
+\end{subfigure} \par\bigskip
+\end{figure}
+
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/anneroth_pattern_inva.png}
+  \caption{Pattern of invasion, Score 3 (Small groups and cords of infiltrating cells.)}
+\end{subfigure} \hfill
+\begin{subfigure}{0.45\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/anneroth_lymph_infilt.png}
+  \caption{Lymphoplasmacytic infiltration, Score 1 (Marked)}
+\end{subfigure} \par\bigskip
+\begin{subfigure}{0.9\textwidth}
+  \centering
+  \includegraphics[width=0.9\textwidth]{imgs/anneroth_table.png}
+\end{subfigure}
+\end{figure}
+
+### 3. Bryne’s et al (1992) deep invasive cell grading system
+
+According to this system,
+
+1. Number of mitosis and stage of invasion was omitted from the Anneroth’s grading system,
+2. The rest of the 4 parameters (Keratinization , nuclear pleomorphism , pattern of Invasion and lymphocytic Infiltration) are measured in the deepest invasive margins, and not in the whole thickness of the tumor, and graded similarly.
+
+The sum of scores are grouped as follows:
+
+* 4-8 grade I
+* 9-12 grade II
+* 13-16 grade III
+
+\begin{center}
+  \includegraphics[width=3in]{imgs/bryne_table.png}
+\end{center}
+
+### 4. JAKOBBSON ET AL. (1973)
+
+This system includes
+
+1. The morphologic parameters  
+    structure - tendency to keratinization - nuclear aberrations - number of mitosis
+2. Evaluation of tumor-host relationship as estimated by parameters such as  
+    Mode - stage of invasion - vascular invasion - degree of lymphoplasmocytic infiltration
+
+\begin{center}
+  \includegraphics[width=6in]{imgs/jacob_table.png}
+\end{center}
 
 ## Staging
 
