@@ -34,7 +34,9 @@ Squamous cell carcinoma can metastasize if is not treated.
 
 # Etiology
 
-Neoplastic is generated from the squamous cell layer of the epithelium upon stimulation by irritants. Those irritants (or known as risk factors) are stochastic in nature and it is hard to specify a specific dose or quantity at which the neoplastic tissue starts to generate. DNA damage by irritants is the most probable cause of neoplasmic tissue generation.
+* Neoplastic tissue is generated from the squamous cell layer of the epithelium upon stimulation by irritants. 
+
+* Those irritants (or known as risk factors) are stochastic in nature and is hard to specify a specific dose or quantity at which the neoplastic tissue starts to generate. DNA damage by irritants is the most probable cause of neoplastic tissue generation.
 
 Squamous cell carcinoma is typically found on areas often exposed to the sun, such as the scalp, face and neck,
 however, it can develop on other parts of the body including the mucous membrane and the genitalia.
@@ -189,73 +191,20 @@ In addition, common signs of squamous cell carcinomas include:
 
 Squamous cell carcinoma usually has some similarities with:
 
-1. **Mature melanocytic nevus**:  
-    \begin{center}
-    \includegraphics[width=3in]{imgs/melanotic_nevus}
-    \end{center}
-    * Type of vessels: comma
-    * Distribution: regular
-    * Additional criteria: 
-        a. Comedo-like openings/milia-like cysts
-        b. Terminal hair
-        c. Residual brown pigmentation
-\vspace{16pt}
-2. **Spitz nevus**:  
-    \begin{center}
-    \includegraphics[width=3in]{imgs/spitz_nevus}
-    \end{center}
-    A Spitz nevus (also known as an epithelioid and spindle-cell nevus, benign juvenile melanoma, and "Spitz's juvenile melanoma") is a benign melanocytic nevus, a type of skin lesion, affecting the epidermis and dermis.
-    * Type of vessels: dotted
-    * Distribution: regular
-    * Additional criteria:
-        a. Pink background
-        b. Melanocytic criteria:
-        c. Inverted network
-        d. Chrysalis structures
-\newpage
-3. **Dysplastic nevus**:  
-    \begin{center}
-    \includegraphics[width=3in]{imgs/dysplastic_nevi}
-    \end{center}
-    These are unusual benign moles that may resemble melanoma. People who have are at increased risk of developing single or multiple melanomas. The higher the number of these moles someone has, the higher the risk. Those who have 10 or more have 12 times the risk of developing melanoma compared to the general population.
-    * Type of vessels: dotted and comma
-    * Distribution: regular/irregular
-    * Additional criteria:
-        + Melanocytic criteria
-\vspace{16pt}
-4. **Melanoma**:  
-    \begin{center}
-    \includegraphics[width=3in]{imgs/melanoma}
-    \end{center}
-    * Type of vessels: 
-        a. Thin tumors (<1 mm): dotted vessels
-        b. Intermediate tumors (1-2mm): dotted and linear irregular vessels
-        c. Thick tumors: polymorphous vessels
-    * Distribution: irregular
-    * Additional criteria:
-        a. Atypical melanocytic criteria
-        b. Chrysalis structures
-\newpage
-5. **Clear cell acanthoma**:  
-    \begin{center}
-    \includegraphics[width=3in]{imgs/clear_cell_acanthoma}
-    \end{center}
-    * Type of vessels: dotted
-    * Distribution: string of pearls
-    * Additional criteria: Erythematous background
-\vspace{16pt}
-6. **Basal cell carcinoma**:  
-    \begin{center}
+### Basal cell carcinoma
+
+\begin{center}
     \includegraphics[width=3in]{imgs/basal_cell_carcinoma}
-    \end{center}
-    Basal cell carcinoma is the most common form of skin cancer, affecting approximately one million Americans each year. More than one out of every three new cancers are skin cancers, and the vast majority are basal cell carcinomas. Basal cell carcinomas are easily treated in their early stages. The larger the tumor has grown, however, the more extensive the treatment needed.
-    * Type of vessels: telangiectasia
-    * Distribution: branching
-    * Additional criteria
-        a. Blue-grey nests and ovoid globules
-        b. Maple leaf-like areas
-        c. Wheel spoke areas
-        d. Ulceration
+\end{center}
+Basal cell carcinoma is the most common form of skin cancer, affecting approximately one million Americans each year. More than one out of every three new cancers are skin cancers, and the vast majority are basal cell carcinomas. Basal cell carcinomas are easily treated in their early stages. The larger the tumor has grown, however, the more extensive the treatment needed.
+
+* Type of vessels: telangiectasia
+* Distribution: branching
+* Additional criteria
+    a. Blue-grey nests and ovoid globules
+    b. Maple leaf-like areas
+    c. Wheel spoke areas
+    d. Ulceration
 
 \newpage
 
@@ -407,6 +356,7 @@ Conventional SCC and variants of SCC frequently arise within the oral cavity. Pr
 
 Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 
+1. Pindborg's System (1997)
 1. Broder's System (1927)
 2. Anneroth et al (1987)
 3. Bryne’s invasive front grading (1989, 1992)
@@ -418,7 +368,7 @@ Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 
 \newpage
 
-### 1. Broder's System (1927)
+### 2. Broder's System (1927)
 
 Accordingly, tumors were graded on the basis of degree of differentiation and keratinization of tumor cells into:
 
@@ -453,7 +403,7 @@ Accordingly, tumors were graded on the basis of degree of differentiation and ke
 
 \newpage
 
-### 2. Anneroth’s et al (1987) - Multifactorial grading system:
+### 3. Anneroth’s et al (1987) - Multifactorial grading system:
 
 According to this system, three parameters reflecting tumor cell features including
 
@@ -515,7 +465,7 @@ and the results were compared in the metastasizing and non-metastasizing groups.
 \end{subfigure}
 \end{figure}
 
-### 3. Bryne’s et al (1992) deep invasive cell grading system
+### 4. Bryne’s et al (1992) deep invasive cell grading system
 
 According to this system,
 
@@ -534,7 +484,7 @@ The sum of scores are grouped as follows:
   \includegraphics[width=3in]{imgs/bryne_table.png}
 \end{center}
 
-### 4. JAKOBBSON ET AL. (1973)
+### 5. JAKOBBSON ET AL. (1973)
 
 This system includes
 
@@ -549,7 +499,7 @@ This system includes
 
 \newpage
 
-### 5. FISHER (1975)
+### 6. FISHER (1975)
 
 They modified slightly the grading system developed by Jakobsson et al.
 
@@ -559,7 +509,7 @@ They modified slightly the grading system developed by Jakobsson et al.
   \includegraphics[width=6in]{imgs/fisher_table.png}
 \end{center}
 
-### 6. LUND et al (1975)
+### 7. LUND et al (1975)
 
 They also modified, grading system of Jakobsson et al.
 
@@ -579,7 +529,7 @@ by:
 
 \newpage
 
-### 7. WILLEN et al (1975)
+### 8. WILLEN et al (1975)
 
 They also used modified system of Jakobsson et al.
 
@@ -634,88 +584,21 @@ Serum levels of six tumor markers:
 were simultaneously measured in 29 patients with primary squamous cell carcinoma (SCC) of the oral cavity to determine their significance. The positive rates were 34.5% for CEA, 41.4% for SCCA, 51.7% for IAP, 0% for AFP, 10.3% for FER, and 6.9% for CA 19-9 in patients with oral SCC. Therefore, CEA, SCCA, and IAP levels, of which the positive rates were significantly different (P < 0.01) from those of control patients without oral cancer, were considered to be of diagnostic value. The sensitivity (69.0%) and accuracy (90.3%) of the combination assay with these three tumor markers proved to be higher than those obtained with individual markers. A combination assay with CEA, SCCA, and IAP could be useful for the screening of patients with oral cancer.
 
 
-# Complications
+# Prognosis
 
 Untreated squamous cell carcinoma of the skin can destroy nearby healthy tissue, spread to the lymph nodes or other organs, and may be fatal, although this is uncommon.
 The risk of aggressive squamous cell carcinoma of the skin may be increased in cases where the cancer:
 
 * Is particularly large or deep
 * Involves the mucous membranes, such as the lips
-* Occurs in a person with a weakened immune system, such as someone who takes anti-rejection medications after an organ transplant or someone who has chronic leukemia
+* Occurs in a person with a weakened immune system, such as someone who takes anti-rejection medications after an organ transplant or someone who has chronic leukemia  
 
-# Treatment of SCCs
+According to differentiation (**Grade**):
 
-There are several types of treatment available for squamous cell carcinoma.
+* Well differentiated -> Good prognosis
+* Moderately differentiated -> Moderate prognosis
+* Poorly differentiated -> Worse prognosis
 
-## Treatment Options
-
-### A) Surgery
-
-Surgery may be used to treat squamous cell carcinoma or actinic keratosis. Types of surgery include:
-
-1. Mohs Microscopic Surgery
-    The doctor removes the cancer from the skin in thin layers and each layer is analyzed under a microscope during surgery for cancer cells. The doctor continues to remove one layer at a time until removing a layer with no evidence of cancer cells. This allows the surgeon to be certain the entire growth is removed and avoid taking an excessive amount of surrounding healthy skin.
-2. Simple Excision
-    The doctor removes the skin cancer and some of the healthy tissue around it.  In this procedure, your doctor cuts out the cancerous tissue and a surrounding margin of healthy skin. Your doctor may recommend removing additional normal skin around the tumor in some cases (wide excision). To minimize scarring, especially on your face, consult a doctor skilled in skin reconstruction.
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=5in]{imgs/mohs_surgery}
-\end{figure}
-
-### B) Radiation Therapy
-
-Radiation therapy uses X-rays or other types of radiation to destroy cancer cells. Most radiation is delivered from a machine outside your body that is targeted directly at the cancer cells. This may be an option for treating deeper tumors, those that have a risk of returning after surgery and tumors in people who can't undergo surgery. 
-
-### C) Chemotherapy
-
-* Chemotherapy uses drugs to stop the growth of cancer cells, either by destroying the cells or by stopping the cells from dividing. Chemotherapy for squamous cell carcinoma and actinic keratosis usually is applied to the skin as a cream or lotion, which is called topical chemotherapy. Medicated creams or lotions. For very superficial cancers, you may apply creams or lotions containing anti-cancer medications directly to your skin.
-
-Chemotherapy may be used for squamous cell carcinoma that is metastatic (has spread to other organs) or when the skin cancer cannot be treated with local therapy but only in specific circumstances.
-
-### D) Photodynamic Therapy
-
-Photodynamic therapy uses a drug and a laser light to destroy cancer cells. The drug is injected in a vein and only becomes active when the laser light shines on the skin. 
-
-### E) Immunotherapy
-
-Immunotherapy, also called biologic therapy, helps boost a patient’s immune system to fight cancer. Interferon may be injected to help treat squamous cell carcinoma by slowing the growth of cancer cells.
-
-Immunotherapy may be used for squamous cell carcinoma that is metastatic (has spread to other organs) or when the skin cancer cannot be treated with local therapy.
-
-### F) Electrodesiccation and curettage
-
-ED and C treatment involves removing the surface of the skin cancer with a scraping instrument (curet) and then searing the base of the cancer with an electric needle. This treatment is often used for very small squamous cell cancers of the skin.
-
-\begin{figure}[H]
-\centering
-\includegraphics[width=2.5in]{imgs/Multiple}
-\end{figure}
-
-### G) Curettage and cryotherapy
-
-Similar to the ED and C procedure, after the tumor removal and curettage, the base and edges of the biopsy site are treated with liquid nitrogen.
-
-### H) Laser therapy
-
-An intense beam of light vaporizes growths, usually with little damage to surrounding tissue and with a reduced risk of bleeding, swelling and scarring. Laser treatment may be an option for very superficial skin lesions.
-
-### I) Freezing
-
-\begin{figure}[H]
-\centering
-\begin{subfigure}{0.45\textwidth}
-\centering
-\includegraphics{imgs/cryo_therapy}
-\end{subfigure}
-\begin{subfigure}{0.45\textwidth}
-\centering
-\includegraphics{imgs/cryo_therapy_2}
-\end{subfigure}
-\caption{Cryosurgery}
-\end{figure}
-
-This treatment involves freezing cancer cells with liquid nitrogen (cryosurgery). It may be an option for treating superficial skin lesions.
 
 \newpage
 
