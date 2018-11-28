@@ -51,5 +51,5 @@ Immunopositive for various keratins: 34betaE12, AE1/AE3, MNF116, CK5/6
 # References
 
 - doi:10.1067/mjd.2000.103342
-- http://www.pathologyoutlines.com/topic/skintumornonmelanocyticscc.html
-- https://www.dermnetnz.org/topics/squamous-cell-carcinoma-pathology/
+- Skin nonmelanocytic tumors Carcinoma (nonadnexal) Squamous cell carcinoma (SCC) , (2014) http://www.pathologyoutlines.com/topic/skintumornonmelanocyticscc.html
+- Squamous cell carcinoma pathology,  Dr Nicholas Turnbull, (2014) https://www.dermnetnz.org/topics/squamous-cell-carcinoma-pathology/

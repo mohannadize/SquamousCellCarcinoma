@@ -38,15 +38,8 @@ Squamous cell carcinoma can metastasize if is not treated.
 
 * Those irritants (or known as risk factors) are stochastic in nature and is hard to specify a specific dose or quantity at which the neoplastic tissue starts to generate. DNA damage by irritants is the most probable cause of neoplastic tissue generation.
 
-Squamous cell carcinoma is typically found on areas often exposed to the sun, such as the scalp, face and neck,
-however, it can develop on other parts of the body including the mucous membrane and the genitalia.
-
-Although researchers know what causes many cases of squamous cell carcinoma – most notably,
-excessive exposure to ultraviolet radiation – studies are still underway to determine how this type
-of cancer develops in parts of the body that are seldom or never exposed to sunlight.
-Past studies show that nearly 95 percent of all non-melanoma skin cancers are the direct result of
-DNA changes that occur in the skin after cells are damaged by UVA or UVB rays,
-and scientists continue to investigate the possible causes of the remaining 5 percent.
+* Squamous cell carcinoma is typically found on areas often exposed to the sun, such as the scalp, face and neck,
+    however, it can develop on other parts of the body including the mucous membrane and the genitalia.
 
 Through ongoing studies, researchers are also investigating the exact changes that occur within the body after squamous cells are damaged by UV exposure. Currently, with regard to what causes squamous cell carcinoma, medical professionals know that:
 
@@ -354,6 +347,8 @@ Conventional SCC and variants of SCC frequently arise within the oral cavity. Pr
 
 ## Tumor Grading
 
+Tumor grading can be used to predict the prognosis of the lesion and its aggressiveness and further assess the treatment plan.
+
 Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 
 1. Pindborg's System (1997)
@@ -366,7 +361,30 @@ Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 7. Willen et al (1975)
 8. Crissman et al (1980)
 
-\newpage
+### 1. Pindborg's System (1997)
+
+This grading is generally based on the method originally described by Broders, which takes into account a sUbjective assessment of the degree of keratinization, cellular and nuclear pleomorphism and mitotic activity.
+
+\begin{figure}[H]
+  \centering
+  \begin{subfigure}{0.45\textwidth}
+    \centering
+    \includegraphics{imgs/scc-well-differentiated-fig-3}
+    \caption{\textbf{Grade 1:} (Well differentiated) Histological and cytological features closely resemble those of the squamous
+epithelial lining of the oral mucosa}
+  \end{subfigure} \hfill
+  \begin{subfigure}{0.45\textwidth}
+    \centering
+    \includegraphics{imgs/scc-moderately-differentiated-fig-6}
+    \caption{\textbf{Grade 2:} (Moderately differentiated) This is a neoplasm with features intermediate between well differentiated and poorly differentiated.}
+  \end{subfigure} \par\bigskip
+  \begin{subfigure}{0.45\textwidth}
+    \centering
+    \includegraphics{imgs/scc-poorly-differentiated-fig-8}
+    \caption{\textbf{Grade 3:} (Poorly differentiated) Histologically and cytologically there is only a slight resemblance to the normal stratified squamous epithelium of the oral mucosa.}
+  \end{subfigure}
+\end{figure}
+
 
 ### 2. Broder's System (1927)
 
@@ -604,6 +622,7 @@ According to differentiation (**Grade**):
 
 # References
 
+* Histological Typing of Cancer and Precancer of the Oral Mucosa - Dr. J. J. Pindborg, Dr. P. A. Reichart, Dr. C. J. Smith, Dr. I. van der Waal (1997)
 * Shulstad, R. M., & Proper, S. (2010). Squamous Cell Carcinoma. Journal of the Dermatology Nurses’ Association, 2(1), 12–16. doi:10.1097/jdn.0b013e3181cb5165
 * Vijay R Tumuluri. A retrospective Analysis of Cell Proliferation in Human Oral Squamous Cell Carcinoma A thesis submitted to Queen Elizebeth Research Institute for Mothers and Infants, The University of Sydney; Nov 1998
 * Dilana Duarte Lima Dantas et al. Clinical-pathological parameters in squamous cell carcinoma of the tongue.Braz Dent J 2003;14:1:22-25.
@@ -618,3 +637,6 @@ According to differentiation (**Grade**):
 * Prakash SB, Nishan. A rare malignancy of sinonasal tract- transitional cell carcinoma: A case report. J Evol Med Dent Sci 2013;2:6946-50.  Back to cited text no. 4
 * Jackson RT, Fitz-Hugh GS, Constable WC. Malignant neoplasms of the nasal cavities and paranasal sinuses: A retrospective study. Laryngoscope 1977;87:726-36.  Back to cited text no. 10
 * Pilch BZ, Bouquot J, Thompson LD. Squamous cell carcinoma. In: Barnes L, Eveson JW, Reichart P, Sidransky D, editors. World Health Organization classification of tumors. Pathology and genetics of head and neck tumors. Lyon: IARC Press; 2005. p. 15-7.
+* Salasche, S. J. (2000). Epidemiology of actinic keratoses and squamous cell carcinoma. Journal of the American Academy of Dermatology, 42(1), S4–S7. doi:10.1067/mjd.2000.103342
+* Skin nonmelanocytic tumors Carcinoma (nonadnexal) Squamous cell carcinoma (SCC) , (2014) http://www.pathologyoutlines.com/topic/skintumornonmelanocyticscc.html
+* Squamous cell carcinoma pathology,  Dr Nicholas Turnbull, (2014) https://www.dermnetnz.org/topics/squamous-cell-carcinoma-pathology/
