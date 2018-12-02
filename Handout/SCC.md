@@ -1,14 +1,79 @@
 ---
-title: Squamous Cell Carcinoma
-output:
-    pdf_document:
-        toc: true
-        toc_depth: 2
+# title: Squamous Cell Carcinoma
+# output:
+#     pdf_document:
+        # toc: true
+        # toc_depth: 2
 header-includes:
     \usepackage{float}
     \usepackage{wrapfig}
     \usepackage{subcaption}
 ---
+
+\begin{center}
+  \  
+  \  
+  \Huge
+  \textbf{Squamous Cell Carcinoma}
+  
+  \Large
+  Oral Pathology Department, Fall 2018
+
+  Lecture C
+\end{center}
+
+\large
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+161369 - Abdelrahman Elbanna
+
+161477 - Abdalla Abbas
+
+162471 - Ahmed Alkarkhi
+
+162927 - Hossam Raafat
+
+161753 - Karim Gamal
+
+160313 - Mohamed Magdy
+
+Omar
+
+184391 - Rany Magdy
+
+Yasmine
+
+
+\normalsize
+\newpage
+\tableofcontents
+
+\title{Squamous Cell Carcinoma}
+
+
 
 \newpage
 
@@ -363,7 +428,7 @@ Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 
 ### 1. Pindborg's System (1997)
 
-This grading is generally based on the method originally described by Broders, which takes into account a sUbjective assessment of the degree of keratinization, cellular and nuclear pleomorphism and mitotic activity.
+This grading is generally based on the method originally described by Broders, which takes into account a subjective assessment of the degree of keratinization, cellular and nuclear pleomorphism and mitotic activity.
 
 \begin{figure}[H]
   \centering
@@ -590,7 +655,31 @@ They modified the criteria outlined by Jakobsson et al. in two steps.
 
 ## Tumor Markers
 
-Serum levels of six tumor markers:
+### Tissue Markers
+
+1. Epithelial markers
+    * Cell surface markers – Histocompatibility
+    * Intracellular markers – Cytokeratins
+    * Basement membrane markers – Type 4 collagen
+    * Matrix markers – Tenascin
+    * Membrane antigen – Blood group antigens.
+2. Connective tissue markers
+    * Intermediate filament proteins – Desmin
+    * Other filament proteins – Laminin
+    * Cellular enzymes – Amylase, lysozyme
+    * Cytoplasmic non‐filamentous non‐enzymatic proteins – Myoglobin, S100 protein
+    * Membrane antigen – Leukocyte specific antigen.
+
+### Salivary Markers (Most Recent)
+
+Most recently, detection of four proteins in the saliva of cancer patients has been found to be the useful markers of oral cancer with 90%sensitivity and 83% specificity for oral squamous cell carcinoma. These proteins include 
+
+1. Calcium‑bindingprotein MRP14 implicated in several types of cancer;
+2. CD59 overexpressed on tumor cells that enables them to escape from complement‑dependent andantibody‑mediated immune responses; 
+3. Profilin 1,a protein involved in several signaling pathways with cytoplasmic and nuclear ligands, generally secreted into tumor micro environments during the early progressive stage of tumorigenesis; 
+4. Catalase,a member of the enzymatic antioxidative system,whose level is elevated in many human tumors and involved in carcinogenesis and tumor progression.However, long‑term studies employing large number of oral cancer patients as well as subjects at high risk of developing oral cancer are needed to validate these potential biomarkers
+
+### Serum levels of six tumor markers:
 
 * Carcinoembryonic antigen (CEA) 
 * Squamous cell carcinoma antigen (SCCA)
@@ -622,6 +711,7 @@ According to differentiation (**Grade**):
 
 # References
 
+* Bhat, S., Binda, A., Choontharu, M., & Sharma, S. (2012). Role of tumor markers in oral squamous cell carcinoma: Review of literature and future consideration. SRM Journal of Research in Dental Sciences, 3(4), 251. https://doi.org/10.4103/0976-433x.114971
 * Histological Typing of Cancer and Precancer of the Oral Mucosa - Dr. J. J. Pindborg, Dr. P. A. Reichart, Dr. C. J. Smith, Dr. I. van der Waal (1997)
 * Shulstad, R. M., & Proper, S. (2010). Squamous Cell Carcinoma. Journal of the Dermatology Nurses’ Association, 2(1), 12–16. doi:10.1097/jdn.0b013e3181cb5165
 * Vijay R Tumuluri. A retrospective Analysis of Cell Proliferation in Human Oral Squamous Cell Carcinoma A thesis submitted to Queen Elizebeth Research Institute for Mothers and Infants, The University of Sydney; Nov 1998
