@@ -11,8 +11,16 @@ header-includes:
 ---
 
 \begin{center}
+    
   \  
+
   \  
+
+  \  
+
+  \  
+
+
   \Huge
   \textbf{Squamous Cell Carcinoma}
   
@@ -22,54 +30,47 @@ header-includes:
   Lecture C
 \end{center}
 
+\Large
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+\  
+
+Supervised by:
+
+Dr. Rehab Kasem
+
+\  
+
+\  
+
+\  
+
+\  
+
+162471 | Ahmed Alkarkhi           | **Project Leader**
+-------|--------------------------|-----------------------
+161369 | Abdelrahman Elbanna      | **Participation 100%**
+161477 | Abdalla Mahmoud          | **Participation 100%**
+162927 | Hossam Raafat            | **Participation 100%**
+161753 | Karim Gamal              | **Participation 100%**
+160313 | Mohamed Magdy            | **Participation 100%**
+165191 | Omar Ahmed               | **Participation 100%**
+184391 | Rany Magdy               | **Participation 100%**
+160867 | Yasmeen Gamal Abdelsalam | **Participation 100%**
+
 \large
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-\  
-
-161369 - Abdelrahman Elbanna
-
-161477 - Abdalla Abbas
-
-162471 - Ahmed Alkarkhi
-
-162927 - Hossam Raafat
-
-161753 - Karim Gamal
-
-160313 - Mohamed Magdy
-
-Omar
-
-184391 - Rany Magdy
-
-Yasmine
-
-
-\normalsize
 \newpage
 \tableofcontents
+\normalsize
 
 \title{Squamous Cell Carcinoma}
 
@@ -201,6 +202,8 @@ including wrinkles, pigment changes, freckles, “age spots,” loss of elastici
 SCCs can often look like scaly patches, open sores, warts or elevated growths with a central depression;
 they may crust or bleed. They can become disfiguring and sometimes deadly if allowed to grow.
 
+\newpage
+
 ## Signs and Symptoms
 
 Skin cancers often do not cause bothersome symptoms until they have grown quite large. Then they may itch, bleed, or even hurt.
@@ -264,7 +267,6 @@ Basal cell carcinoma is the most common form of skin cancer, affecting approxima
     c. Wheel spoke areas
     d. Ulceration
 
-\newpage
 
 ## Staging
 
@@ -277,7 +279,7 @@ Clinical staging of squamous cell carcinoma is done by the TNM system. The exten
 * Whether or not the involved nodes are fixed.
 * Presence or absence of distant metastases.  
   
-### T:
+**T:**
 
 * **T0**: No evidence of primary tumor.
 * **Tis**: Carcinoma in situ
@@ -288,14 +290,16 @@ Clinical staging of squamous cell carcinoma is done by the TNM system. The exten
 * **T4a**: Can be surgically resected
 * **T4b**: Can’t be surgically resected
 
-### N:
+\newpage
+
+**N:**
 
 * **N0**: No L.N involved.
 * **N1**: Palpable but not fixed (ipsilateral).
 * **N2**: Palpable but not fixed (contralateral).
 * **N3**: Fixed L.N (ipsilateral, contralateral or bilateral)
 
-### M:
+**M:**
 
 * **M0**: No metastasis.
 * **M1**: Metastasis present.
@@ -332,6 +336,8 @@ Patient is also most probably going to have a history of:
 * Small cell keratinizing squamous cell carcinoma
 * Spindle cell SCC
 
+\newpage
+
 # Histopathology
 
 * Squamous cell carcinoma is a malignant epithelial tumor which originates in epidermis. 
@@ -355,8 +361,6 @@ Patient is also most probably going to have a history of:
 \end{subfigure}
 \end{figure}
 
-\newpage
-
 ## Variants
 
 Conventional SCC and variants of SCC frequently arise within the oral cavity. Precise histopathological diagnosis can help the clinician to plan accurate treatment, as the prognosis of each of them differs considerably.
@@ -373,7 +377,10 @@ Conventional SCC and variants of SCC frequently arise within the oral cavity. Pr
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_78723c05b88184.jpg}
   \caption{2. \textbf{Verrucous Carcinoma}: Verrucous carcinoma-broad bulbous pushing rete ridges with parakeratotic plugging.}
-\end{subfigure} \par\bigskip
+\end{subfigure}
+\end{figure}
+\begin{figure}[H]
+\captionsetup[subfigure]{labelformat=empty}
 \begin{subfigure}{0.45\textwidth}
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_5388d96721d8398c.jpg}
@@ -393,9 +400,7 @@ Conventional SCC and variants of SCC frequently arise within the oral cavity. Pr
   \centering
   \includegraphics[width=0.8\textwidth]{imgs/SSC_Histopathology_html_464039fda29ea00e.jpg}
   \caption{6. \textbf{Basaloid squamous cell carcinoma}: Basaloid squamous cell carcinoma biphasic tumor showing basaloid malignant islands with peripheral palisading and comedonecrosis (arrow) (H\&E stain, ×100). Inset depicts squamous differentiation with keratin pearl formation (arrowhead) (H\&E stain, ×100)}
-\end{subfigure}
-\end{figure}
-\begin{figure}[H]
+\end{subfigure} \par\bigskip
 \captionsetup[subfigure]{labelformat=empty}
 \begin{subfigure}{0.45\textwidth}
   \centering
@@ -416,42 +421,17 @@ Tumor grading can be used to predict the prognosis of the lesion and its aggress
 
 Histopathological Grading Systems for Oral Squamous Cell Carcinoma:
 
-1. Pindborg's System (1997)
 1. Broder's System (1927)
-2. Anneroth et al (1987)
-3. Bryne’s invasive front grading (1989, 1992)
-4. Jakobbson et al (1973)
-5. Fisher (1975)
-6. Lund et al (1975)
-7. Willen et al (1975)
-8. Crissman et al (1980)
+2. Pindborg's System (1997)
+3. Anneroth et al (1987)
+4. Bryne’s invasive front grading (1989, 1992)
+5. Jakobbson et al (1973)
+6. Fisher (1975)
+7. Lund et al (1975)
+8. Willen et al (1975)
+9. Crissman et al (1980)
 
-### 1. Pindborg's System (1997)
-
-This grading is generally based on the method originally described by Broders, which takes into account a subjective assessment of the degree of keratinization, cellular and nuclear pleomorphism and mitotic activity.
-
-\begin{figure}[H]
-  \centering
-  \begin{subfigure}{0.45\textwidth}
-    \centering
-    \includegraphics{imgs/scc-well-differentiated-fig-3}
-    \caption{\textbf{Grade 1:} (Well differentiated) Histological and cytological features closely resemble those of the squamous
-epithelial lining of the oral mucosa}
-  \end{subfigure} \hfill
-  \begin{subfigure}{0.45\textwidth}
-    \centering
-    \includegraphics{imgs/scc-moderately-differentiated-fig-6}
-    \caption{\textbf{Grade 2:} (Moderately differentiated) This is a neoplasm with features intermediate between well differentiated and poorly differentiated.}
-  \end{subfigure} \par\bigskip
-  \begin{subfigure}{0.45\textwidth}
-    \centering
-    \includegraphics{imgs/scc-poorly-differentiated-fig-8}
-    \caption{\textbf{Grade 3:} (Poorly differentiated) Histologically and cytologically there is only a slight resemblance to the normal stratified squamous epithelium of the oral mucosa.}
-  \end{subfigure}
-\end{figure}
-
-
-### 2. Broder's System (1927)
+#### 1. Broder's System (1927)
 
 Accordingly, tumors were graded on the basis of degree of differentiation and keratinization of tumor cells into:
 
@@ -484,15 +464,39 @@ Accordingly, tumors were graded on the basis of degree of differentiation and ke
 \end{subfigure}
 \end{figure}
 
-\newpage
+#### 2. Pindborg's System (1997)
 
-### 3. Anneroth’s et al (1987) - Multifactorial grading system:
+This grading is generally based on the method originally described by Broders, which takes into account a subjective assessment of the degree of keratinization, cellular and nuclear pleomorphism and mitotic activity.
+
+\begin{figure}[H]
+  \centering
+  \begin{subfigure}{0.45\textwidth}
+    \centering
+    \includegraphics{imgs/scc-well-differentiated-fig-3}
+    \caption{\textbf{Grade 1:} (Well differentiated) Histological and cytological features closely resemble those of the squamous
+epithelial lining of the oral mucosa}
+  \end{subfigure} \hfill
+  \begin{subfigure}{0.45\textwidth}
+    \centering
+    \includegraphics{imgs/scc-moderately-differentiated-fig-6}
+    \caption{\textbf{Grade 2:} (Moderately differentiated) This is a neoplasm with features intermediate between well differentiated and poorly differentiated.}
+  \end{subfigure} \par\bigskip
+  \begin{subfigure}{0.45\textwidth}
+    \centering
+    \includegraphics{imgs/scc-poorly-differentiated-fig-8}
+    \caption{\textbf{Grade 3:} (Poorly differentiated) Histologically and cytologically there is only a slight resemblance to the normal stratified squamous epithelium of the oral mucosa.}
+  \end{subfigure}
+\end{figure}
+
+#### 3. Anneroth’s et al (1987) - Multifactorial grading system:
 
 According to this system, three parameters reflecting tumor cell features including
 
 1. Keratinization
 2. Nuclear pleomorphism
 3. Mitoses
+
+\newpage
 
 They're evaluated in the whole thickness of the tumor and each scored from 1-4.
 
@@ -502,7 +506,7 @@ Also
 2. Stage of invasion
 3. Lymphoplasmacytic infiltration representing tumor-host relationship are graded in the most invasive margins and scored from 1-4.
 
-Then the sum of scores were grouped as follows: 6-12 grade I, 13-18 grade II, 19-24 grade III,
+Then the sum of scores is grouped as follows: 6-12 grade I, 13-18 grade II, 19-24 grade III,
 and the results were compared in the metastasizing and non-metastasizing groups.
 
 
@@ -548,7 +552,7 @@ and the results were compared in the metastasizing and non-metastasizing groups.
 \end{subfigure}
 \end{figure}
 
-### 4. Bryne’s et al (1992) deep invasive cell grading system
+#### 4. Bryne’s et al (1992) deep invasive cell grading system
 
 According to this system,
 
@@ -567,7 +571,7 @@ The sum of scores are grouped as follows:
   \includegraphics[width=3in]{imgs/bryne_table.png}
 \end{center}
 
-### 5. JAKOBBSON ET AL. (1973)
+#### 5. JAKOBBSON ET AL. (1973)
 
 This system includes
 
@@ -582,7 +586,7 @@ This system includes
 
 \newpage
 
-### 6. FISHER (1975)
+#### 6. FISHER (1975)
 
 They modified slightly the grading system developed by Jakobsson et al.
 
@@ -592,7 +596,7 @@ They modified slightly the grading system developed by Jakobsson et al.
   \includegraphics[width=6in]{imgs/fisher_table.png}
 \end{center}
 
-### 7. LUND et al (1975)
+#### 7. LUND et al (1975)
 
 They also modified, grading system of Jakobsson et al.
 
@@ -612,7 +616,7 @@ by:
 
 \newpage
 
-### 8. WILLEN et al (1975)
+#### 8. WILLEN et al (1975)
 
 They also used modified system of Jakobsson et al.
 
@@ -624,10 +628,10 @@ They also used modified system of Jakobsson et al.
 * In the group with metastases the neoplasm were less differentiated and advanced nuclear aberrations with increase mitotic rates.
 
 \begin{center}
-  \includegraphics[width=6in]{imgs/willen_table.png}
+  \includegraphics[width=5in]{imgs/willen_table.png}
 \end{center}
 
-### 8. CRISSMAN et al
+#### 9. CRISSMAN et al
 
 They modified the criteria outlined by Jakobsson et al. in two steps.
 
@@ -642,7 +646,7 @@ They modified the criteria outlined by Jakobsson et al. in two steps.
 \end{center}
 
 
-### CONCLUSION
+#### CONCLUSION
 
 * A significant percentage of patients with early stages of SCC have a poor prognosis despite the small size of the tumor.
 * TNM staging system used in clinical practice does not provide information on the biological characteristic and aggressive clinical behavior of oral SCC.
@@ -678,6 +682,8 @@ Most recently, detection of four proteins in the saliva of cancer patients has b
 2. CD59 overexpressed on tumor cells that enables them to escape from complement‑dependent andantibody‑mediated immune responses; 
 3. Profilin 1,a protein involved in several signaling pathways with cytoplasmic and nuclear ligands, generally secreted into tumor micro environments during the early progressive stage of tumorigenesis; 
 4. Catalase,a member of the enzymatic antioxidative system,whose level is elevated in many human tumors and involved in carcinogenesis and tumor progression.However, long‑term studies employing large number of oral cancer patients as well as subjects at high risk of developing oral cancer are needed to validate these potential biomarkers
+
+\newpage
 
 ### Serum levels of six tumor markers:
 
