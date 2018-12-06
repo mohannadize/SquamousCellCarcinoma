@@ -11,7 +11,7 @@ header-includes:
 ---
 
 \begin{center}
-    
+
   \  
 
   \  
@@ -23,7 +23,7 @@ header-includes:
 
   \Huge
   \textbf{Squamous Cell Carcinoma}
-  
+
   \Large
   Oral Pathology Department, Fall 2018
 
@@ -56,16 +56,17 @@ Dr. Rehab Kasem
 
 \  
 
-162471 | Ahmed Alkarkhi           | **Project Leader**
--------|--------------------------|-----------------------
-161369 | Abdelrahman Elbanna      | **Participation 100%**
-161477 | Abdalla Mahmoud          | **Participation 100%**
-162927 | Hossam Raafat            | **Participation 100%**
-161753 | Karim Gamal              | **Participation 100%**
-160313 | Mohamed Magdy            | **Participation 100%**
-165191 | Omar Ahmed               | **Participation 100%**
-184391 | Rany Magdy               | **Participation 100%**
-160867 | Yasmeen Gamal Abdelsalam | **Participation 100%**
+162471 | Ahmed Alkarkhi               | **Project Leader**
+-------|------------------------------|-----------------------
+161369 | Abdelrahman Moustafa Elbanna | **Participation 100%**
+161477 | Abdalla Mahmoud              | **Participation 100%**
+162927 | Hossam Raafat                | **Participation 100%**
+161753 | Karim Gamal                  | **Participation 100%**
+160313 | Mohamed Magdy                | **Participation 100%**
+162981 | Mohanad Hesham		      | **Participation 100%**
+165191 | Omar Ahmed                   | **Participation 100%**
+184391 | Rany Magdy                   | **Participation 100%**
+160867 | Yasmeen Gamal Abdelsalam     | **Participation 100%**
 
 \large
 \newpage
@@ -82,7 +83,7 @@ Dr. Rehab Kasem
 
 \includegraphics[width=4in]{imgs/scc-mouth}
 
-Squamous cell carcinoma at the junction between the corner of the mouth  
+Squamous cell carcinoma at the junction between the corner of the mouth
 and cheeks
 
 \end{center}
@@ -91,7 +92,7 @@ and cheeks
 
 It is estimated that there are between 900,000 and 1,200,000 new skin cancers each year in the United States.
 
-80% of these cases are Basal Cell Carcinomas & 20% are Squamous Cell Carcinomas, 
+80% of these cases are Basal Cell Carcinomas & 20% are Squamous Cell Carcinomas,
 which is roughly about 250,000 new cases each year in the US only.
 
 Squamous cell carcinoma is the second most common type of skin cancer.
@@ -100,7 +101,7 @@ Squamous cell carcinoma can metastasize if is not treated.
 
 # Etiology
 
-* Neoplastic tissue is generated from the squamous cell layer of the epithelium upon stimulation by irritants. 
+* Neoplastic tissue is generated from the squamous cell layer of the epithelium upon stimulation by irritants.
 
 * Those irritants (or known as risk factors) are stochastic in nature and is hard to specify a specific dose or quantity at which the neoplastic tissue starts to generate. DNA damage by irritants is the most probable cause of neoplastic tissue generation.
 
@@ -186,7 +187,7 @@ Additional risk factors include exposure to large amounts of arsenic, coal tar o
     or are located in high-risk areas such as the vermilion lip, the ear, and the columella of the nose.
     Patients who are immunocompromised are more predisposed to the development of metastases.
 
-# Clinical Presentation  
+# Clinical Presentation
 
 SCCs may occur on all areas of the body, including the mucous membranes and genitals, but are most common
 in areas frequently exposed to the sun, such as the rim of the ear, lower lip, face, balding scalp,
@@ -277,8 +278,8 @@ Clinical staging of squamous cell carcinoma is done by the TNM system. The exten
 * Presence or absence of metastases to regional lymph nodes.
 * Whether ipsilateral nodes only or contralateral nodes are also involved.
 * Whether or not the involved nodes are fixed.
-* Presence or absence of distant metastases.  
-  
+* Presence or absence of distant metastases.
+
 **T:**
 
 * **T0**: No evidence of primary tumor.
@@ -340,12 +341,12 @@ Patient is also most probably going to have a history of:
 
 # Histopathology
 
-* Squamous cell carcinoma is a malignant epithelial tumor which originates in epidermis. 
+* Squamous cell carcinoma is a malignant epithelial tumor which originates in epidermis.
 * Tumor cells destroy the basement membrane and form sheets or compact masses which invade the subjacent connective tissue (dermis).
 * Tumor cells show signs of epithelial dysplasia.
 * Tumor cells may surround and destroy blood vessels, and may invade the lumina of vein or lymphatics.
-* In well differentiated carcinomas, tumor cells are pleomorphic/atypical, but resembling normal keratinocytes from prickle layer (large, polygonal, with abundant eosinophilic (pink) cytoplasm and central nucleus). Their disposal tends to be similar to that of normal epidermis: immature/basal cells at the periphery, becoming more mature to the centre of the tumor masses. Tumor cells transform into keratinized squamous and form round nodules with concentric, laminated layers, called "cell nests" or "epithelial/keratinous pearls". The surrounding stroma is reduced and contains inflammatory infiltrate (lymphocytes). 
-* Poorly differentiated squamous carcinomas contain more pleomorphic cells and no keratinization. (H&E, ob. x10)
+* In well differentiated carcinomas, tumor cells are pleomorphic/atypical, but resembling normal keratinocytes from prickle layer (large, polygonal, with abundant eosinophilic (pink) cytoplasm and central nucleus). Their disposal tends to be similar to that of normal epidermis: immature/basal cells at the periphery, becoming more mature to the centre of the tumor masses. Tumor cells transform into keratinized squamous and form round nodules with concentric, laminated layers, called "cell nests" or "epithelial/keratinous pearls". The surrounding stroma is reduced and contains inflammatory infiltrate (lymphocytes).
+* Poorly differentiated squamous carcinomas contain more pleomorphic cells and no keratinization.
 
 \begin{figure}[H]
 \centering
@@ -473,18 +474,18 @@ This grading is generally based on the method originally described by Broders, w
   \begin{subfigure}{0.45\textwidth}
     \centering
     \includegraphics{imgs/scc-well-differentiated-fig-3}
-    \caption{\textbf{Grade 1:} (Well differentiated) Histological and cytological features closely resemble those of the squamous
+    \caption{\textbf{Grade I:} (Well differentiated) Histological and cytological features closely resemble those of the squamous
 epithelial lining of the oral mucosa}
   \end{subfigure} \hfill
   \begin{subfigure}{0.45\textwidth}
     \centering
     \includegraphics{imgs/scc-moderately-differentiated-fig-6}
-    \caption{\textbf{Grade 2:} (Moderately differentiated) This is a neoplasm with features intermediate between well differentiated and poorly differentiated.}
+    \caption{\textbf{Grade II:} (Moderately differentiated) This is a neoplasm with features intermediate between well differentiated and poorly differentiated.}
   \end{subfigure} \par\bigskip
   \begin{subfigure}{0.45\textwidth}
     \centering
     \includegraphics{imgs/scc-poorly-differentiated-fig-8}
-    \caption{\textbf{Grade 3:} (Poorly differentiated) Histologically and cytologically there is only a slight resemblance to the normal stratified squamous epithelium of the oral mucosa.}
+    \caption{\textbf{Grade III:} (Poorly differentiated) Histologically and cytologically there is only a slight resemblance to the normal stratified squamous epithelium of the oral mucosa.}
   \end{subfigure}
 \end{figure}
 
@@ -575,9 +576,9 @@ The sum of scores are grouped as follows:
 
 This system includes
 
-1. The morphologic parameters  
+1. The morphologic parameters
     structure - tendency to keratinization - nuclear aberrations - number of mitosis
-2. Evaluation of tumor-host relationship as estimated by parameters such as  
+2. Evaluation of tumor-host relationship as estimated by parameters such as
     Mode - stage of invasion - vascular invasion - degree of lymphoplasmocytic infiltration
 
 \begin{center}
@@ -600,7 +601,7 @@ They modified slightly the grading system developed by Jakobsson et al.
 
 They also modified, grading system of Jakobsson et al.
 
-by: 
+by:
 
 1. Presenting a more exact definition of each parameter and grade.
 2. Introducing a histologic score, defined a total sum of points divided by the number of parameters evaluated.
@@ -620,7 +621,7 @@ by:
 
 They also used modified system of Jakobsson et al.
 
-1. Deletion of two morphological parameter  
+1. Deletion of two morphological parameter
     structure and vascular invasion.
 
 * The results showed no definitive correlation between the clinical stage and histologic grading of malignancy.
@@ -676,18 +677,18 @@ They modified the criteria outlined by Jakobsson et al. in two steps.
 
 ### Salivary Markers (Most Recent)
 
-Most recently, detection of four proteins in the saliva of cancer patients has been found to be the useful markers of oral cancer with 90%sensitivity and 83% specificity for oral squamous cell carcinoma. These proteins include 
+Most recently, detection of four proteins in the saliva of cancer patients has been found to be the useful markers of oral cancer with 90%sensitivity and 83% specificity for oral squamous cell carcinoma. These proteins include
 
 1. Calcium‑bindingprotein MRP14 implicated in several types of cancer;
-2. CD59 overexpressed on tumor cells that enables them to escape from complement‑dependent andantibody‑mediated immune responses; 
-3. Profilin 1,a protein involved in several signaling pathways with cytoplasmic and nuclear ligands, generally secreted into tumor micro environments during the early progressive stage of tumorigenesis; 
+2. CD59 overexpressed on tumor cells that enables them to escape from complement‑dependent andantibody‑mediated immune responses;
+3. Profilin 1,a protein involved in several signaling pathways with cytoplasmic and nuclear ligands, generally secreted into tumor micro environments during the early progressive stage of tumorigenesis;
 4. Catalase,a member of the enzymatic antioxidative system,whose level is elevated in many human tumors and involved in carcinogenesis and tumor progression.However, long‑term studies employing large number of oral cancer patients as well as subjects at high risk of developing oral cancer are needed to validate these potential biomarkers
 
 \newpage
 
 ### Serum levels of six tumor markers:
 
-* Carcinoembryonic antigen (CEA) 
+* Carcinoembryonic antigen (CEA)
 * Squamous cell carcinoma antigen (SCCA)
 * Immunosuppressive acidic protein (IAP)
 * Alpha-fetoprotein (AFP)
@@ -704,7 +705,7 @@ The risk of aggressive squamous cell carcinoma of the skin may be increased in c
 
 * Is particularly large or deep
 * Involves the mucous membranes, such as the lips
-* Occurs in a person with a weakened immune system, such as someone who takes anti-rejection medications after an organ transplant or someone who has chronic leukemia  
+* Occurs in a person with a weakened immune system, such as someone who takes anti-rejection medications after an organ transplant or someone who has chronic leukemia
 
 According to differentiation (**Grade**):
 
