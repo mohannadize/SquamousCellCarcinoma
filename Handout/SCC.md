@@ -167,7 +167,9 @@ Many risk factors associated with squamous cell carcinoma have a direct link to 
 
 Additional risk factors include exposure to large amounts of arsenic, coal tar or other carcinogenic chemicals; chronic ulcers and a history of radiation therapy for previous cancers. Also, a person who has already been diagnosed with skin cancer has an elevated risk of developing a second skin cancer during his or her lifetime.
 
-\newpage
+## Oncogenes and Tumor suppressor genes
+
+Mutation, deactivation and disregulated expression of oncogenes and tumour-suppressor genes may be involved in the pathogenesis of oral squamous cell carcinoma (SCC). Deactivation of the p53 tumour-suppressor gene allows cell proliferation and blocks apoptosis of malignant oral keratinocytes. Mutation in the ras oncogene results in persistent mitogenic signalling. Upregulated c-Myc expression, in the presence of growth factors, provides an additional proliferative signal. Loss of retinoblastoma tumour-suppressor gene (Rb) function may contribute to oral keratinocyte hyperproliferation and recent evidence suggests that simultaneous deactivation of both p53 and Rb is required for tumourigenesis. Enhanced Bcl-2 and reduced Fas expression inhibit tumour cell apoptosis and may convey resistance to cytotoxic drugs and T cell-mediated cytotoxicity, respectively. Exogenous mutagens such as tobacco, alcohol and viral oncogenes may cause altered expression of oncogenes and tumour-suppressor genes in some cases of oral SCC. The impact of these mechanisms on future therapies for oral SCC is highlighted. 
 
 # Epidemiology
 
@@ -202,8 +204,6 @@ including wrinkles, pigment changes, freckles, “age spots,” loss of elastici
 
 SCCs can often look like scaly patches, open sores, warts or elevated growths with a central depression;
 they may crust or bleed. They can become disfiguring and sometimes deadly if allowed to grow.
-
-\newpage
 
 ## Signs and Symptoms
 
@@ -719,6 +719,7 @@ According to differentiation (**Grade**):
 # References
 
 * Bhat, S., Binda, A., Choontharu, M., & Sharma, S. (2012). Role of tumor markers in oral squamous cell carcinoma: Review of literature and future consideration. SRM Journal of Research in Dental Sciences, 3(4), 251. https://doi.org/10.4103/0976-433x.114971
+* Sugerman, P., Joseph, B., & Savage, N. (2008). The role of oncogenes, tumour suppressor genes and growth factors in oral squamous cell carcinoma: a case of apoptosis versus proliferation. Oral Diseases, 1(3), 172–188. https://doi.org/10.1111/j.1601-0825.1995.tb00181.x
 * Histological Typing of Cancer and Precancer of the Oral Mucosa - Dr. J. J. Pindborg, Dr. P. A. Reichart, Dr. C. J. Smith, Dr. I. van der Waal (1997)
 * Shulstad, R. M., & Proper, S. (2010). Squamous Cell Carcinoma. Journal of the Dermatology Nurses’ Association, 2(1), 12–16. doi:10.1097/jdn.0b013e3181cb5165
 * Vijay R Tumuluri. A retrospective Analysis of Cell Proliferation in Human Oral Squamous Cell Carcinoma A thesis submitted to Queen Elizebeth Research Institute for Mothers and Infants, The University of Sydney; Nov 1998
