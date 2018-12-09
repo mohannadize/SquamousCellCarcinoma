@@ -91,8 +91,7 @@ and cheeks
 
 It is estimated that there are between 900,000 and 1,200,000 new skin cancers each year in the United States.
 
-80% of these cases are Basal Cell Carcinomas & 20% are Squamous Cell Carcinomas,
-which is roughly about 250,000 new cases each year in the US only.
+Squamous cell carcinoma (SCC) is the second most common form of skin cancer. More than 1 million cases of SCC are diagnosed in the U.S. each year, resulting in more than 15,000 deaths.
 
 Squamous cell carcinoma is the second most common type of skin cancer.
 It arises from plate-like cell layer in the epidermis and is due to extensive sun exposure.
@@ -102,7 +101,7 @@ Squamous cell carcinoma can metastasize if is not treated.
 
 * Neoplastic tissue is generated from the squamous cell layer of the epithelium upon stimulation by irritants.
 
-* Those irritants (or known as risk factors) are stochastic in nature and is hard to specify a specific dose or quantity at which the neoplastic tissue starts to generate. DNA damage by irritants is the most probable cause of neoplastic tissue generation.
+* Those irritants (or known as risk factors) are stochastic in nature and is hard to specify a certain dose or quantity at which the neoplastic tissue generates. DNA damage by irritants is the most probable cause of neoplastic tissue generation.
 
 * Squamous cell carcinoma is typically found on areas often exposed to the sun, such as the scalp, face and neck,
     however, it can develop on other parts of the body including the mucous membrane and the genitalia.
@@ -152,8 +151,6 @@ Many risk factors associated with squamous cell carcinoma have a direct link to 
 
     * Older adults are more frequently diagnosed with squamous cell carcinoma than younger individuals,
         presumably due to the cumulative effects of UV exposure over a person’s lifetime.
-    * People with an inherited condition known as xeroderma pigmentosum have an extreme sensitivity to
-        sunlight are also very susceptible to cellular damage caused by UVA and UVB rays.
 
 6. Genetically Susceptible and Infected individuals
 
@@ -163,6 +160,8 @@ Many risk factors associated with squamous cell carcinoma have a direct link to 
         have a greatly increased risk of developing skin cancer.
     * Weakened immune system. People with weakened immune systems have an increased risk of skin cancer.
         This includes people who have leukemia or lymphoma and those who take medications that suppress the immune system, such as those who have undergone organ transplants.
+    * People with an inherited condition known as xeroderma pigmentosum have an extreme sensitivity to
+        sunlight are also very susceptible to cellular damage caused by UVA and UVB rays.
 
 Additional risk factors include exposure to large amounts of arsenic, coal tar or other carcinogenic chemicals; chronic ulcers and a history of radiation therapy for previous cancers. Also, a person who has already been diagnosed with skin cancer has an elevated risk of developing a second skin cancer during his or her lifetime.
 
