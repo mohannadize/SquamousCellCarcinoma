@@ -89,7 +89,7 @@ and cheeks
 
 ***
 
-It is estimated that there are between 900,000 and 1,200,000 new skin cancers each year in the United States.
+It is estimated that there are about 5 million new skin cancer cases each year in the United States.
 
 Squamous cell carcinoma (SCC) is the second most common form of skin cancer. More than 1 million cases of SCC are diagnosed in the U.S. each year, resulting in more than 15,000 deaths.
 
