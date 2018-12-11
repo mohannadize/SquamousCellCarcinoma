@@ -723,6 +723,7 @@ According to differentiation (**Grade**):
 * Vijay R Tumuluri. A retrospective Analysis of Cell Proliferation in Human Oral Squamous Cell Carcinoma A thesis submitted to Queen Elizebeth Research Institute for Mothers and Infants, The University of Sydney; Nov 1998
 * Dilana Duarte Lima Dantas et al. Clinical-pathological parameters in squamous cell carcinoma of the tongue.Braz Dent J 2003;14:1:22-25.
 * Kenneth D McClatchey, Richard J. Zarbo. The Jaws and Oral Cavity. Sternberg’s Diagnostic Surgical Pathology 2004;2:884-915.
+* J Balan, J. (2012). Analysis of Tumor Marker Ca 125 in Saliva of Normal and Oral Squamous Cell Carcinoma Patients: A Comparative Study. The Journal of Contemporary Dental Practice, 671–675. https://doi.org/10.5005/jp-journals-10024-1207
 * M.F. Muñoz-Guerra. Early stage oral cancer: prognosis with regard to histological grading, intratumoral lymphangiogenesis, and the expression of vascular endothelial growth factor-C (VEGF-C). Rev Esp Cirug Oral y Maxilofac 2006;28:1:25-40.
 * Y. Okada, I. Mataga. An analysis of cervical lymph nodes metastasis in oral squamous cell carcinoma: Relationship between grade of histopathological malignancy and lymph nodes metastasis. International journal of oral and maxillofacial surgery, 2003;32:3:284-288.
 * Shafer WG, Hine MK, Levy BM. Rajendran R,Sivapathasundharam B, editors. Text book of oral pathology. 5 th ed. New Delhi: Elsevier; 2006.
